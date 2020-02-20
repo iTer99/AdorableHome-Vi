@@ -1,111 +1,111 @@
 [
    {
       "key":"lounge_items",
-      "value":"Lounge Items"
+      "value":"Vật dụng phòng khách"
    },
    {
       "key":"garden_items",
-      "value":"Garden Items"
+      "value":"Vật dụng ngoài vườn"
    },
    {
       "key":"bedroom_items",
-      "value":"Bedroom Items"
+      "value":"Vật dụng phòng ngủ"
    },
    {
       "key":"bathroom_items",
-      "value":"Bathroom Items"
+      "value":"Vật dụng nhà tắm"
    },
    {
       "key":"food_items",
-      "value":"Foods & Boxes"
+      "value":"Thực phẩm & Đồ hộp"
    },
    {
       "key":"cat_items",
-      "value":"Cat Boxes"
+      "value":"Mèo"
    },
    {
       "key":"lounge_electronic",
-      "value":"Electronics"
+      "value":"Đồ điện tử"
    },
    {
       "key":"lounge_sofa",
-      "value":"Sofas"
+      "value":"Ghế sofa"
    },
    {
       "key":"lounge_table",
-      "value":"Tables"
+      "value":"Bàn"
    },
    {
       "key":"lounge_cabinet",
-      "value":"Cabinets"
+      "value":"Tủ"
    },
    {
       "key":"lounge_chair",
-      "value":"Chairs"
+      "value":"Ghế"
    },
    {
       "key":"lounge_carpet",
-      "value":"Carpets"
+      "value":"Thảm"
    },
    {
       "key":"lounge_stair",
-      "value":"Stairs"
+      "value":"Cầu thang"
    },
    {
       "key":"lounge_lamp",
-      "value":"Lamps"
+      "value":"Đèn"
    },
    {
       "key":"lounge_pot",
-      "value":"Potted Plants"
+      "value":"Chậu cây"
    },
    {
       "key":"lounge_vase",
-      "value":"Vases"
+      "value":"Bình hoa"
    },
    {
       "key":"lounge_amuse",
-      "value":"Amusement items"
+      "value":"Đồ giải trí"
    },
    {
       "key":"lounge_decoration",
-      "value":"Decorations"
+      "value":"Đồ trang trí"
    },
    {
       "key":"lounge_other",
-      "value":"Others"
+      "value":"Khác"
    },
    {
       "key":"garden_flower",
-      "value":"Flowers"
+      "value":"Hoa"
    },
    {
       "key":"garden_plant",
-      "value":"Plants"
+      "value":"Cây"
    },
    {
       "key":"garden_chair",
-      "value":"Garden Chairs"
+      "value":"Ghế sân vườn"
    },
    {
       "key":"garden_mat",
-      "value":"Garden Mats"
+      "value":"Thảm sân vườn"
    },
    {
       "key":"garden_light",
-      "value":"Garden Lights"
+      "value":"Đèn sân vườn"
    },
    {
       "key":"garden_statue",
-      "value":"Statues"
+      "value":"Tượng"
    },
    {
       "key":"garden_nest",
-      "value":"Nests"
+      "value":"Tổ chim"
    },
    {
       "key":"amuse_facility",
-      "value":"Amusement Facilities"
+      "value":"Amuse Facilities"
    },
    {
       "key":"garden_facility",
@@ -117,528 +117,528 @@
    },
    {
       "key":"Bedroom",
-      "value":"Bedroom"
+      "value":"Phòng ngủ"
    },
    {
       "key":"Bathroom",
-      "value":"Bathroom"
+      "value":"Nhà tắm"
    },
    {
       "key":"look_forward_text",
-      "value":"We are still building this new room.\nWe hope you’re looking forward to it!"
+      "value":"Chúng tôi vẫn đang xây dựng căn phòng mới này.\nChúng tôi hy vọng bạn sẽ mong chờ nó!"
    },
    {
       "key":"coming_soon",
-      "value":"Coming Soon"
+      "value":"Sắp ra mắt"
    },
 
    {
       "key":"enter_code_title",
-      "value":"Have a special code? Insert it below:"
+      "value":"Có một mã đặc biệt? Nhập nó bên dưới:"
    },
    {
       "key":"enter_code",
-      "value":"Enter the code"
+      "value":"Nhập mã"
    },
    {
       "key":"follow_us",
-      "value":"Follow us on Twitter & Facebook and be on the lookout for new codes."
+      "value":"Theo dõi chúng tôi trên Twitter và Facebook và tìm kiếm các mã mới."
    },
    {
       "key":"code_failed",
-      "value":"Invalid code!"
+      "value":"Mã không hợp lệ!"
    },
    {
       "key":"quit_text",
-      "value":"Do you want to quit the game?"
+      "value":"Bạn có muốn thoát khỏi trò chơi?"
    },
    {
       "key":"language",
-      "value":"Language"
+      "value":"Ngôn ngữ"
    },
    {
       "key":"cat_cant_play_text",
-      "value":"wants to stay alone right now!"
+      "value":"muốn ở một mình ngay bây giờ!"
    },
    {
       "key":"lucky_channal",
-      "value":"Lucky Channel Reward"
+      "value":"Phần thưởng may mắn"
    },
    {
       "key":"lucky_channal_text",
-      "value":"Want to have more luck?\nWatch an AD for more love!"
+      "value":"Bạn muốn có nhiều may mắn?\nXem quảng cáo để có thêm tình yêu!"
    },
    {
       "key":"double_love",
-      "value":"Double Love"
+      "value":"Nhân đôi tình yêu"
    },
    {
       "key":"win_1",
-      "value":"Want to double your rewards?\nWatch an AD for more love!"
+      "value":"Bạn muốn nhân đôi phần thưởng?\nXem quảng cáo để có thêm tình yêu!"
    },
    {
       "key":"choose_character",
-      "value":"Tap to choose your character"
+      "value":"Nhấn để chọn cá tính của bạn"
    },
    {
       "key":"how_to_play",
-      "value":"How to play"
+      "value":"Cách chơi"
    },
    {
       "key":"mini_game_alertTitle",
-      "value":"Cats feel so lonely right now!"
+      "value":"Mèo cảm thấy rất cô đơn ngay bây giờ!"
    },
    {
       "key":"mini_game_alertBody",
-      "value":"Come home and play with your adorable cats. They need your love!"
+      "value":"Về nhà và chơi với những con mèo đáng yêu của bạn. Chúng cần tình yêu của bạn!"
    },
    {
       "key":"more_love",
-      "value":"More Love!"
+      "value":"Yêu thương nhiều hơn!"
    },
    {
       "key":"game_3_name",
-      "value":"Take a shower"
+      "value":"Đi tắm"
    },
    {
       "key":"game_3_info_1",
-      "value":"Tilt the phone left and right to\ncontrol the temperature of the thermometer to keep the water temperature in the green range."
+      "value":"Nghiêng điện thoại sang trái và phải để\nđiều chỉnh nhiệt độ của nhiệt kế để giữ nhiệt độ nước trong phạm vi màu xanh lá."
    },
    {
       "key":"game_3_info_2",
-      "value":"Drag shower nozzle to shower the cat. You will get a heart if the temperature is in green range. You win this game when you get five of it first."
+      "value":"Kéo vòi hoa sen để tắm cho mèo. Bạn sẽ có được một trái tim nếu nhiệt độ nằm trong phạm vi màu xanh lá. Bạn sẽ thắng trò chơi này khi bạn nhận được 5 lần trong số đó."
    },
    {
       "key":"game_3_info_3",
-      "value":"If the temperature is in red or blue range, you will get a flash. You lose this game when you get three of it first."
+      "value":"Nếu nhiệt độ nằm trong phạm vi màu đỏ hoặc màu xanh, màn hình của bạn sẽ nhấp nháy. Bạn thua trò chơi này khi bạn 3 lần nhấp nháy."
    },
    {
       "key":"game_2_name",
-      "value":"Cut nails"
+      "value":"Làm móng"
    },
    {
       "key":"game_2_info_1",
-      "value":"Use your finger tip and try to swipe a straight line quickly to cut nails."
+      "value":"Sử dụng ngón tay của bạn và nhanh chóng vuốt một đường thẳng để cắt móng tay."
    },
    {
       "key":"game_2_info_2",
-      "value":"You will get a red heart when you cut off a nail successfully. You win the game when you cut off all the nails."
+      "value":"Bạn sẽ có một trái tim màu khi bạn cắt móng tay thành công. Bạn thắng trò chơi khi bạn cắt hết móng tay."
    },
    {
       "key":"game_2_info_3",
-      "value":"You will get a flash when you touch cat's hands or arms. You lose the game when you get 5 flashes first."
+      "value":"Màn hình của bạn sẽ nhấp nháy khi bạn chạm vào tay hoặc cánh tay của mèo. Bạn thua trò chơi khi bạn 5 lần nhấp nháy."
    },
    {
       "key":"game_1_name",
-      "value":"Stroke cat"
+      "value":"Vuốt ve mèo"
    },
    {
       "key":"win",
-      "value":"You Made It"
+      "value":"Bạn thắng"
    },
    {
       "key":"fail",
-      "value":"You Failed"
+      "value":"Bạn thua"
    },
    {
       "key":"fail_1",
-      "value":"Don't want to lose reward?\nHow about try it again!"
+      "value":"Không muốn mất phần thưởng?\nThử lại"
    },
    {
       "key":"try_again",
-      "value":"Try again"
+      "value":"Thử lại lần nữa"
    },
    {
       "key":"game_1_info_1",
-      "value":"Try to stroke different part of the cat.\nSome parts are welcomed, but some are not."
+      "value":"Cố gắng vuốt các chỗ khác nhau của con mèo.\nMột số chỗ được hoan nghênh, nhưng vài chỗ thì không."
    },
    {
       "key":"game_1_info_2",
-      "value":"When you touch the welcomed part, you will get a red heart! You win this game when you get five of it first."
+      "value":"Khi bạn chạm vào chỗ chào, bạn sẽ nhận được một trái tim màu đỏ! Bạn thắng trò chơi này khi bạn nhận được 5 lần."
    },
    {
       "key":"game_1_info_3",
-      "value":"When you touch the unwelcome part, you will get a flash! You lose this game when you get three of it first."
+      "value":"Khi bạn chạm vào chỗ không mong muốn, màn hình của bạn sẽ nhấp nháy! Bạn thua trò chơi này khi bạn nhận được 3 lần"
    },
    {
       "key":"t_alertBody",
-      "value":"It's time to prepare food!"
+      "value":"Đã đến lúc chuẩn bị thức ăn!"
    },
    {
       "key":"t_alertTitle",
-      "value":"has come back from work!"
+      "value":"Đã đi làm về"
    },
    {
       "key":"gift_box",
-      "value":"Cat gift box"
+      "value":"Hộp quà mèo"
    },
    {
       "key":"got_cat_text",
-      "value":"becomes one of the family!"
+      "value":"Trở thành thành viên trong gia đình!"
    },
    {
       "key":"got",
-      "value":"Got"
+      "value":"Lấy được"
    },
    {
       "key":"go_to_shop",
-      "value":"Go to Shop"
+      "value":"Đi đến cửa hàng"
    },
    {
       "key":"sunny",
-      "value":"Sunny"
+      "value":"Trời nắng"
    },
    {
       "key":"cloudy",
-      "value":"Cloudy"
+      "value":"Nhiều mây"
    },
    {
       "key":"rainy",
-      "value":"Rainy"
+      "value":"Có mưa"
    },
    {
       "key":"snowy",
-      "value":"Snowy"
+      "value":"Có tuyết"
    },
    {
       "key":"got_love_sign_text",
-      "value":"You have got love from the sky!"
+      "value":"Bạn có tình yêu từ bầu trời!"
    },
    {
       "key":"got_love_text",
-      "value":"Love got"
+      "value":"Nhận lấy tình yêu"
    },
    {
       "key":"weather_days_title",
-      "value":"Weather Forecast in 5 days"
+      "value":"Dự báo thời tiết trong 5 ngày"
    },
    {
       "key":"more_weather",
-      "value":"5 Days"
+      "value":"5 ngày"
    },
    {
       "key":"today",
-      "value":"Today"
+      "value":"Hôm nay"
    },
    {
       "key":"first_love_1",
-      "value":"Darling, please accept my love and I will teach you how to decorate our home with the love you receive."
+      "value":"Bạn ơi, xin hãy chấp nhận tình yêu của tôi và tôi sẽ bày cho bạn cách trang trí nhà của chúng ta bằng tình yêu."
    },
    {
       "key":"cat_food_intro_1",
-      "value":"After you filled the food, cat will eat it up when the time countdown is over\nand they will give you love depends on the food you filled."
+      "value":"Sau khi bạn đổ đầy thức ăn, mèo sẽ ăn hết khi thời gian đếm ngược kết thúc\nvà họ sẽ cho bạn tình yêu tùy thuộc vào thức ăn bạn đổ đầy."
    },
    {
       "key":"start_cat_food_1",
-      "value":"I think Snow is hungry now.\nWe should feed her with some food!"
+      "value":"Tôi nghĩ tuyết đang đói.\nChúng ta nên cho cô ấy ăn"
    },
    {
       "key":"moment_intro_1",
-      "value":"Every time you open the game, there is a chance that you may meet a wonderful moment! Getting more cats and decorating your garden will bring you more of them!"
+      "value":"Mỗi khi bạn mở trò chơi, có một cơ hội mà bạn có thể gặp một khoảnh khắc tuyệt vời! Bắt nhiều mèo hơn và trang trí khu vườn của bạn sẽ mang lại cho bạn nhiều hơn về chúng!"
    },
    {
       "key":"prepare_food_sign",
-      "value":"Don't forget to prepare bento box!"
+      "value":"Đừng quên chuẩn bị khay thức ăn!"
    },
    {
       "key":"new_animal",
-      "value":"New animals appear! Find them out!"
+      "value":"Thú cưng mới xuất hiện! Tìm chúng ngay!"
    },
    {
       "key":"loading",
-      "value":"Loading..."
+      "value":"Đang tải..."
    },
    {
       "key":"alertTitle",
-      "value":"Time to feed cats!"
+      "value":"Thời gian mèo ăn!"
    },
    {
       "key":"alertBody",
-      "value":"There's a lot of work to do, come back home right now!"
+      "value":"Có rất nhiều việc phải làm, trở về nhà ngay bây giờ!"
    },
    {
       "key":"cat_alertTitle",
-      "value":"Cats bring you more love!"
+      "value":"Mèo mang lại cho bạn nhiều hạnh phúc hơn!"
    },
    {
       "key":"cat_alertBody",
-      "value":"Cat's food is finished, come to refill food and receive love!"
+      "value":"Thức ăn của mèo đã hoàn tất, thêm thức ăn và nhận được tình yêu!"
    },
    {
       "key":"goodies_title",
-      "value":"My Collection"
+      "value":"Bộ sưu tập của tôi"
    },
    {
       "key":"finish_sign_1",
-      "value":"Your partner went to work and will be back in a few hours; while you wait...\n1. Collect all the Love.\n2. Care for your Cat(s).\n3. Decorate your Adorable Home!"
+      "value":"Đối tác của bạn đã đi làm và sẽ trở lại trong một vài giờ; trong khi bạn chờ đợi...\n1. Nhận tất cả tình yêu\n2. Chăm sóc mèo.\n3. Trang trí Adorable Home của bạn!"
    },
    {
       "key":"1_line",
-      "value":"This is our new home from now on.\nWe'll have a wonderful life here!"
+      "value":"Đây là ngôi nhà mới của chúng tôi kể từ bây giờ.\nChúng ta sẽ có một cuộc sống tuyệt vời ở đây!"
    },
    {
       "key":"2_line",
-      "value":"Great! I like it!\nBut it's so messy right now"
+      "value":"Tuyệt quá! Tôi thích nó!\nNhưng nó quá lộn xộn"
    },
    {
       "key":"3_line",
-      "value":"You're right~\nWe have to clean it up."
+      "value":"Bạn nói đúng\nChúng ta cần dọn dẹp."
    },
    {
       "key":"4_line",
-      "value":"OK! Let's do it!"
+      "value":"OK! Bắt đầu nào!"
    },
    {
       "key":"5_line",
-      "value":"Finally...\nIt looks much better now!"
+      "value":"Xong rồiii...\nNó tốt hơn rồi đấy"
    },
    {
       "key":"6_line",
-      "value":"Yeah! We could even make it better!\nOh,look! Snow likes the new house!"
+      "value":"Chúng ta thậm chí có thể làm nó tốt hơn!\nÔi nhìn kìa! Tuyết rơi!"
    },
    {
       "key":"7_line",
-      "value":"Oh! The time is late.\nI have to go to work right now!"
+      "value":"Oh! Cũng đã muộn rồi.\nTôi phải đi làm ngay bây giờ!"
    },
    {
       "key":"8_line",
-      "value":"Wait a minute!\nI'll prepare your lunch quickly!"
+      "value":"Chờ 1 phút!\nTôi sẽ chuẩn bị bữa trưa nhanh thôi!"
    },
    {
       "key":"comfirm",
-      "value":"Confirm"
+      "value":"Xác nhận"
    },
    {
       "key":"accept",
-      "value":"Accept"
+      "value":"Chấp nhận"
    },
    {
       "key":"recieve_love_text_1",
-      "value":"Darling, I'm home!\nThanks for the food.\nPlease accept my love!"
+      "value":"Bạn ơi, tôi về rồi!\nCảm ơn vì bữa ăn\nHãy chấp nhận tình yêu của tôi"
    },
    {
       "key":"yes",
-      "value":"Yes"
+      "value":"Có"
    },
    {
       "key":"no",
-      "value":"No"
+      "value":"Không"
    },
    {
       "key":"send_you",
-      "value":"gives you"
+      "value":"Gửi cho bạn"
    },
    {
       "key":"recieve_pet_love_text",
-      "value":"Accept all love"
+      "value":"Chấp nhận tất cả tình yêu"
    },
    {
       "key":"b_start_line",
-      "value":"~Choose your character~"
+      "value":"~Chọn cá tính của bạn~"
    },
    {
       "key":"t_start_line",
-      "value":"Click and choose your partner"
+      "value":"Nhấn và chọn đối tác"
    },
    {
       "key":"enter_b_name",
-      "value":"Enter your name"
+      "value":"Nhập tên"
    },
    {
       "key":"enter_t_name",
-      "value":"Your partner's name"
+      "value":"Nhập tên đối tác"
    },
    {
       "key":"people_name_limit",
-      "value":"10 letters"
+      "value":"Giới hạn 10 kí tự"
    },
    {
       "key":"livingroom",
-      "value":"Lounge"
+      "value":"Phòng khách"
    },
    {
       "key":"garden",
-      "value":"Garden"
+      "value":"Vườn"
    },
    {
       "key":"shop",
-      "value":"Shop"
+      "value":"Cửa hàng"
    },
    {
       "key":"goodies",
-      "value":"Mine"
+      "value":"Của tôi"
    },
    {
       "key":"moments",
-      "value":"Moments"
+      "value":"Khoảng khắc"
    },
    {
       "key":"setting",
-      "value":"Setting"
+      "value":"Cài đặt"
    },
    {
       "key":"Livingroom",
-      "value":"Lounge"
+      "value":"Phòng khách"
    },
    {
       "key":"Garden",
-      "value":"Garden"
+      "value":"Vườn"
    },
    {
       "key":"Food",
-      "value":"Foods"
+      "value":"Thức ăn"
    },
    {
       "key":"Cats",
-      "value":"Cats"
+      "value":"Mèo"
    },
    {
       "key":"Visitors",
-      "value":"Visitors"
+      "value":"Khách"
    },
    {
       "key":"Boxes",
-      "value":"Boxes"
+      "value":"Hộp"
    },
    {
       "key":"shop_title",
-      "value":"Shopping"
+      "value":"Mua sắm"
    },
    {
       "key":"more",
-      "value":"More"
+      "value":"Khác"
    },
    {
       "key":"buy_line",
-      "value":"Do you want to buy it?"
+      "value":"Bạn có muốn mua nó?"
    },
    {
       "key":"cant_buy",
-      "value":"Your love is not enough!"
+      "value":"Tình yêu của bạn không đủ!"
    },
    {
       "key":"bought",
-      "value":"Bought"
+      "value":"Đã mua"
    },
    {
       "key":"in_use",
-      "value":"Placed"
+      "value":"Đặt"
    },
    {
       "key":"main_dish",
-      "value":"Main Course"
+      "value":"Thức ăn chính"
    },
    {
       "key":"side_dish",
-      "value":"Side Dish"
+      "value":"Thức ăn phụ"
    },
    {
       "key":"dessert",
-      "value":"Dessert"
+      "value":"Tráng miệng"
    },
    {
       "key":"box",
-      "value":"Bento Box"
+      "value":"Khay thức ăn"
    },
    {
       "key":"pet_food_1",
-      "value":"Cat food"
+      "value":"Thức ăn cho mèo"
    },
    {
       "key":"pet_food_2",
-      "value":"Delicious cat food"
+      "value":"Thức ăn ngon cho mèo"
    },
    {
       "key":"pet_food_3",
-      "value":"Dried fishes"
+      "value":"Cá"
    },
    {
       "key":"pet_food_4",
-      "value":"Dried sea fishes"
+      "value":"Cá biển"
    },
    {
       "key":"cost",
-      "value":"Cost"
+      "value":"Giá"
    },
    {
       "key":"add",
-      "value":"Refill"
+      "value":"Thêm"
    },
    {
       "key":"later",
-      "value":"Later"
+      "value":"Sau"
    },
    {
       "key":"dont_have_line1",
-      "value":"You don't have this course.\nPlease buy some in the Shop."
+      "value":"Bạn không có thứ này.\nHãy mua tại cửa hàng."
    },
    {
       "key":"select",
-      "value":"Select"
+      "value":"Chọn"
    },
    {
       "key":"selected",
-      "value":"Selected"
+      "value":"Đã chọn"
    },
    {
       "key":"purchase_failed",
-      "value":"Your purchase has failed somehow!"
+      "value":"Mua hàng của bạn đã thất bại vì lí do nào đó!"
    },
    {
       "key":"purchase_complete",
-      "value":"You have gained more love!"
+      "value":"Bạn có được nhiều tình yêu hơn!"
    },
    {
       "key":"ads_wait_sign",
-      "value":"You can only watch 10 Ads everyday!"
+      "value":"Bạn chỉ có thể xem 10 Quảng cáo / ngày!"
    },
    {
       "key":"unlock",
-      "value":"Unlock"
+      "value":"Mở khóa"
    },
    {
       "key":"garden_title",
-      "value":"Garden Area"
+      "value":"Khu vườn"
    },
    {
       "key":"garden_buy_complete",
-      "value":"Please enjoy your garden!"
+      "value":"Hãy cảm nhận khu vườn của bạn!"
    },
    {
       "key":"garden_info_1",
-      "value":"Unlock Garden Area\nyou can expand your life to garden and attract different cute guests to visit!"
+      "value":"Mở khóa khu vườn\nBạn có thể mở rộng cuộc sống của mình đến khu vườn và thu hút những vị khách dễ thương khác nhau ghé thăm!"
    },
    {
       "key":"no_garden_item",
-      "value":"You need to unlock Garden Area!"
+      "value":"Bạn cần mở khóa khu vườn!"
    },
    {
       "key":"no_food_item",
-      "value":"You don't have any food"
+      "value":"Bạn không có thức ăn"
    },
    {
       "key":"no_animal_item",
-      "value":"You didn't meet any animal visitors"
+      "value":"Bạn đã không gặp khách thăm thú!"
    },
    {
       "key":"change_people_title",
-      "value":"Reselect Characters"
+      "value":"Chọn lại cá tính"
    },
    {
       "key":"change_people_1",
-      "value":"It‘s not easy to be with each other. Break the relationship should pay the price! You will have a chance to reselect characters if you pay the price, and all your game data will be kept!"
+      "value":"Không dễ dàng gì để ở bên nhau. Phá vỡ mối quan hệ! Bạn sẽ có cơ hội chọn lại các nhân vật nếu bạn thanh toán và tất cả dữ liệu trò chơi của bạn sẽ được lưu giữ!"
    },
    {
       "key":"pay",
-      "value":"Pay"
+      "value":"Thanh toán"
    },
    {
       "key":"buy_people_complete",
-      "value":"You can reselect characters now!"
+      "value":"Bạn có thể chọn lại tính cách ngay bây giờ"
    },
    {
       "key":"change_language",
-      "value":"Change Language"
+      "value":"Thay đổi ngôn ngữ"
    },
    {
       "key":"English",
@@ -662,7 +662,7 @@
    },
    {
       "key":"rate_game",
-      "value":"Rate Game"
+      "value":"Đánh giá trò chơi"
    },
    {
       "key":"characters",
@@ -670,95 +670,95 @@
    },
    {
       "key":"contact",
-      "value":"Contact"
+      "value":"Liên hệ"
    },
    {
       "key":"contact_text",
-      "value":"If you have any problem, please contact"
+      "value":"Nếu bạn có bất kỳ vấn đề, xin vui lòng liên hệ"
    },
    {
       "key":"restore",
-      "value":"Restore"
+      "value":"Khôi phục"
    },
    {
       "key":"restore_complete",
-      "value":"Successfully restored!"
+      "value":"Hoàn tất khôi phục!"
    },  
    {
       "key":"restore_failed",
-      "value":"Your restoration has failed somehow!"
+      "value":"Khôi phục của bạn đã thất bại vì lí do nào đó!"
    },
    {
       "key":"restore_line_1",
-      "value":"if you have purchased Garden Area"
+      "value":"Nếu bạn đã mua khu vườn"
    },
    {
       "key":"restore_line_2",
-      "value":"and reinstalled this game"
+      "value":"và cài đặt lại trò chơi này"
    },
    {
       "key":"restore_line_3",
-      "value":"you can restore it here!"
+      "value":"bạn có thể khôi phục nó ở đây!"
    },
    {
       "key":"sound_text",
-      "value":"Sound Effects"
+      "value":"Hiệu ứng âm thanh"
    },
    {
       "key":"music_text",
-      "value":"Background Music"
+      "value":"Nhạc nền"
    },
    {
       "key":"delete_moment",
-      "value":"Delete this moment?"
+      "value":"Xóa khoảng khắc?"
    },
    {
       "key":"prepare_food",
-      "value":"Prepare Bento Box"
+      "value":"Chuẩn bị khay thức ăn"
    },
    {
       "key":"food_info_1",
-      "value":"Tap the bento box to select a Main Course, Side Dish, Dessert and Box. Your partner will give you love depending on how much they enjoy it.\nGreat combos bring more love!"
+      "value":"Nhấn vào khay thức ăn để chọn Món chính, Món phụ, Món tráng miệng và Hộp. Đối tác của bạn sẽ cho bạn tình yêu tùy thuộc vào mức độ họ thích nó.\nCombo tuyệt vời mang lại nhiều tình yêu hơn!"
    },
    {
       "key":"got_it",
-      "value":"Got it!"
+      "value":"Nhận lấy nó!"
    },
    {
       "key":"save",
-      "value":"Save"
+      "value":"Lưu"
    },
    {
       "key":"delete",
-      "value":"Delete"
+      "value":"Xóa"
    },
    {
       "key":"moment_line_1",
-      "value":"Press shutter\nquickly!"
+      "value":"Bấm chụp\nThật nhanh!"
    },
    {
       "key":"saved_sign",
-      "value":"New moment has saved!"
+      "value":"Khoảng khắc mới đã được lưu!"
    },
    {
       "key":"place_item_text",
-      "value":"Do you want to place it？"
+      "value":"Bạn có muốn đặt nó không?"
    },
    {
       "key":"put_away_text",
-      "value":"Do you want to put it away？"
+      "value":"Bạn có muốn cất nó đi không?"
    },
    {
       "key":"watch_ad_text",
-      "value":"Watch news to gain love"
+      "value":"Xem tin tức để có được tình yêu"
    },
    {
       "key":"free",
-      "value":"Get Free Love"
+      "value":"Nhận tình yêu miễn phí"
    },
    {
       "key":"ad_limit_text",
-      "value":"You can only watch 10 Ads everyday!"
+      "value":"Bạn chỉ có thể xem 10 Quảng cáo / ngày!"
    },
 
 
@@ -2528,19 +2528,19 @@
    },
    {
       "key":"offerwall_exit",
-      "value":"Complete an offer to earn free love. It may take up to 24 hours to receive your reward."
+      "value":"Hoàn thành một đề nghị để kiếm được tình yêu miễn phí. Có thể mất đến 24 giờ để nhận phần thưởng của bạn."
    },
    {
       "key":"offerwall_success",
-      "value":"Congrats! You completed an offer and are now ready to receive the reward."
+      "value":"Chúc mừng! Bạn đã hoàn thành một đề nghị và bây giờ đã sẵn sàng để nhận phần thưởng."
    },
    {
       "key":"free_gems",
-      "value":"Earn love by completing offers!"
+      "value":"Kiếm được tình yêu bằng cách hoàn thành cung cấp!"
    },
    {
       "key":"freeOW",
-      "value":"FREE"
+      "value":"MIỄN PHÍ"
    }
 
 
