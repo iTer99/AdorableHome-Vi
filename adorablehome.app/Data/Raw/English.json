@@ -326,15 +326,15 @@
    },
    {
       "key":"cat_food_intro_1",
-      "value":"Sau khi bạn đổ đầy thức ăn, mèo sẽ ăn hết khi thời gian đếm ngược kết thúc\nvà họ sẽ cho bạn tình yêu tùy thuộc vào thức ăn bạn đổ đầy."
+      "value":"Sau khi bạn đổ đầy thức ăn, mèo sẽ ăn đến khi thời gian đếm ngược kết thúc\nvà bạn sẽ nhận được tình yêu tùy thuộc vào thức ăn mà bạn đổ đầy."
    },
    {
       "key":"start_cat_food_1",
-      "value":"Tôi nghĩ tuyết đang đói.\nChúng ta nên cho cô ấy ăn"
+      "value":"Hình như Snow đang đói.\nChúng ta nên cho nó ăn"
    },
    {
       "key":"moment_intro_1",
-      "value":"Mỗi khi bạn mở trò chơi, có một cơ hội mà bạn có thể gặp một khoảnh khắc tuyệt vời! Bắt nhiều mèo hơn và trang trí khu vườn của bạn sẽ mang lại cho bạn nhiều hơn về chúng!"
+      "value":"Mỗi khi bạn mở trò chơi, sẽ có một cơ hội mà bạn gặp một khoảnh khắc tuyệt vời nào đó! Chăm sóc cho mèo và trang trí khu vườn của bạn sẽ mang lại cho bạn nhiều khoảng khắc hơn!"
    },
    {
       "key":"prepare_food_sign",
@@ -370,35 +370,35 @@
    },
    {
       "key":"finish_sign_1",
-      "value":"Đối tác của bạn đã đi làm và sẽ trở lại trong một vài giờ; trong khi bạn chờ đợi...\n1. Nhận tất cả tình yêu\n2. Chăm sóc mèo.\n3. Trang trí Adorable Home của bạn!"
+      "value":"Đối tác của bạn đã đi làm và sẽ trở lại trong một vài giờ tới, trong khi chờ đợi...\n1. Nhận tất cả tình yêu\n2. Chăm sóc mèo.\n3. Trang trí Adorable Home của bạn!"
    },
    {
       "key":"1_line",
-      "value":"Đây là ngôi nhà mới của chúng tôi kể từ bây giờ.\nChúng ta sẽ có một cuộc sống tuyệt vời ở đây!"
+      "value":"Đây là ngôi nhà mới của chúng ta kể từ bây giờ.\nChúng ta sẽ có một cuộc sống tuyệt vời ở đây!"
    },
    {
       "key":"2_line",
-      "value":"Tuyệt quá! Tôi thích nó!\nNhưng nó quá lộn xộn"
+      "value":"Tuyệt quá! Tôi thích đấy!\nNhưng nó quá lộn xộn!"
    },
    {
       "key":"3_line",
-      "value":"Bạn nói đúng\nChúng ta cần dọn dẹp."
+      "value":"Bạn nói đúng\nChúng ta cần sửa soạn lại."
    },
    {
       "key":"4_line",
-      "value":"OK! Bắt đầu nào!"
+      "value":"Được rồi! Bắt đầu nào!"
    },
    {
       "key":"5_line",
-      "value":"Xong rồiii...\nNó tốt hơn rồi đấy"
+      "value":"Xong rồiii...\nTrông tốt hơn rồi đấy"
    },
    {
       "key":"6_line",
-      "value":"Chúng ta thậm chí có thể làm nó tốt hơn!\nÔi nhìn kìa! Tuyết rơi!"
+      "value":"Chúng ta thậm chí có thể làm nó tốt hơn!\nÔi nhìn kìa! Có tuyết rơi!"
    },
    {
       "key":"7_line",
-      "value":"Oh! Cũng đã muộn rồi.\nTôi phải đi làm ngay bây giờ!"
+      "value":"Hmm! Cũng đã muộn rồi.\nTôi phải đi làm ngay bây giờ!"
    },
    {
       "key":"8_line",
@@ -466,7 +466,7 @@
    },
    {
       "key":"goodies",
-      "value":"Của tôi"
+      "value":"Bộ sưu tập"
    },
    {
       "key":"moments",
@@ -542,11 +542,11 @@
    },
    {
       "key":"pet_food_1",
-      "value":"Thức ăn cho mèo"
+      "value":"Thức ăn "
    },
    {
       "key":"pet_food_2",
-      "value":"Thức ăn ngon cho mèo"
+      "value":"Thức ăn ngon hơn"
    },
    {
       "key":"pet_food_3",
@@ -710,7 +710,7 @@
    },
    {
       "key":"delete_moment",
-      "value":"Xóa khoảng khắc?"
+      "value":"Xóa khoảnh khắc?"
    },
    {
       "key":"prepare_food",
@@ -718,11 +718,11 @@
    },
    {
       "key":"food_info_1",
-      "value":"Nhấn vào khay thức ăn để chọn Món chính, Món phụ, Món tráng miệng và Hộp. Đối tác của bạn sẽ cho bạn tình yêu tùy thuộc vào mức độ họ thích nó.\nCombo tuyệt vời mang lại nhiều tình yêu hơn!"
+      "value":"Nhấn vào khay thức ăn để chọn món chính, món phụ, món tráng miệng và khay. Đối tác của bạn sẽ cho bạn tình yêu tùy thuộc vào mức độ họ thích.\nCombo tuyệt vời mang lại nhiều tình yêu hơn!"
    },
    {
       "key":"got_it",
-      "value":"Nhận lấy nó!"
+      "value":"Được rồi!"
    },
    {
       "key":"save",
@@ -734,11 +734,11 @@
    },
    {
       "key":"moment_line_1",
-      "value":"Bấm chụp\nThật nhanh!"
+      "value":"Bấm chụp\nthật nhanh!"
    },
    {
       "key":"saved_sign",
-      "value":"Khoảng khắc mới đã được lưu!"
+      "value":"Khoảnh khắc mới đã được lưu!"
    },
    {
       "key":"place_item_text",
