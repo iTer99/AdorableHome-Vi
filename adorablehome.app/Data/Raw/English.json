@@ -1,55 +1,55 @@
 [
    {
       "key":"first_night_sign_text",
-      "value":"Tap on the flying fireflies to catch them!"
+      "value":"Chạm vào những con đom đóm đang bay để bắt chúng!"
    },
    {
       "key":"firefly_reward_title",
-      "value":"Lucky!"
+      "value":"May mắn!"
    },
    {
       "key":"firefly_reward_text",
-      "value":"This firefly brings you some love!"
+      "value":"Con đom đóm này mang đến cho bạn một ít tình yêu!"
    },
    {
       "key":"firefly_ad_title",
-      "value":"Bad Luck!"
+      "value":"Kém may mắn!"
    },
    {
       "key":"firefly_ad_text",
-      "value":"This firefly brings you an ad!"
+      "value":"Con đom đóm này mang đến cho bạn một quảng cáo!"
    },
    {
       "key":"skin_color",
-      "value":"Skin Colors"
+      "value":"Màu da"
    },
    {
       "key":"no_bedroom_item",
-      "value":"You need to unlock Bedroom Scene!"
+      "value":"Bạn cần mở khóa phòng ngủ!"
    },
    {
       "key":"bedroom_buy_complete",
-      "value":"Please enjoy your Bedroom!"
+      "value":"Hãy tận hưởng phòng ngủ của bạn!"
    },
    {
       "key":"bedroom_title",
-      "value":"Bedroom Scene"
+      "value":"Phòng ngủ"
    },
    {
       "key":"bedroom_info",
-      "value":"Unlocking the Bedroom scene will bring nighttime to your home. More interesting things will happen at night."
+      "value":"Mở khóa cảnh phòng ngủ sẽ mang lại ban đêm cho ngôi nhà của bạn. Những điều thú vị hơn sẽ xảy ra vào ban đêm."
    },
    {
       "key":"offerwall_exit",
-      "value":"Complete an offer to earn free love. It may take up to 24 hours to receive your reward."
+      "value":"Hoàn thành một đề nghị để kiếm được tình yêu miễn phí. Có thể mất đến 24 giờ để nhận phần thưởng của bạn."
    },
    {
       "key":"offerwall_success",
-      "value":"Congrats! You completed an offer and are now ready to receive the reward."
+      "value":"Chúc mừng! Bạn đã hoàn thành một đề nghị và bây giờ đã sẵn sàng để nhận phần thưởng."
    },
    {
       "key":"free_gems",
-      "value":"Earn love by completing offers!"
+      "value":"Kiếm được tình yêu bằng cách hoàn thành các đề nghị!"
    },
 
 
@@ -57,55 +57,55 @@
 
    {
       "key":"bedroom_bed",
-      "value":"Beds"
+      "value":"Giường"
    },
    {
       "key":"bedroom_nightstand",
-      "value":"Nightstands"
+      "value":"Tủ đầu giường"
    },
    {
       "key":"bedroom_desk",
-      "value":"Desks"
+      "value":"Bàn"
    },
    {
       "key":"bedroom_cosmo",
-      "value":"Dressing Tables"
+      "value":"Khăn trải bàn"
    },
    {
       "key":"bedroom_wardrobe",
-      "value":"Wardrobes"
+      "value":"Tủ quần áo"
    },
    {
       "key":"bedroom_chair",
-      "value":"Chairs"
+      "value":"Ghế"
    },
    {
       "key":"bedroom_plant",
-      "value":"Plants"
+      "value":"Cây"
    },
    {
       "key":"bedroom_stand",
-      "value":"Clothes Racks"
+      "value":"Giá treo quần áo"
    },
    {
       "key":"bedroom_foot",
-      "value":"Benches"
+      "value":"Băng ghế"
    },
    {
       "key":"bedroom_vase",
-      "value":"Vases"
+      "value":"Bình hoa"
    },
    {
       "key":"bedroom_light",
-      "value":"Lights"
+      "value":"Đèn"
    },
    {
       "key":"bedroom_toy",
-      "value":"Toys"
+      "value":"Đồ chơi"
    },
    {
       "key":"bedroom_carpet",
-      "value":"Carpets"
+      "value":"Thảm"
    },
 
 
