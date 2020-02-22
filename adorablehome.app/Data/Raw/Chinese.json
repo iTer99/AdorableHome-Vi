@@ -1,0 +1,2547 @@
+[
+   {
+      "key":"lounge_items",
+      "value":"Vật dụng phòng khách"
+   },
+   {
+      "key":"garden_items",
+      "value":"Vật dụng ngoài vườn"
+   },
+   {
+      "key":"bedroom_items",
+      "value":"Vật dụng phòng ngủ"
+   },
+   {
+      "key":"bathroom_items",
+      "value":"Vật dụng nhà tắm"
+   },
+   {
+      "key":"food_items",
+      "value":"Thực phẩm & Đồ hộp"
+   },
+   {
+      "key":"cat_items",
+      "value":"Mèo"
+   },
+   {
+      "key":"lounge_electronic",
+      "value":"Đồ điện tử"
+   },
+   {
+      "key":"lounge_sofa",
+      "value":"Ghế sofa"
+   },
+   {
+      "key":"lounge_table",
+      "value":"Bàn"
+   },
+   {
+      "key":"lounge_cabinet",
+      "value":"Tủ"
+   },
+   {
+      "key":"lounge_chair",
+      "value":"Ghế"
+   },
+   {
+      "key":"lounge_carpet",
+      "value":"Thảm"
+   },
+   {
+      "key":"lounge_stair",
+      "value":"Cầu thang"
+   },
+   {
+      "key":"lounge_lamp",
+      "value":"Đèn"
+   },
+   {
+      "key":"lounge_pot",
+      "value":"Chậu cây"
+   },
+   {
+      "key":"lounge_vase",
+      "value":"Bình hoa"
+   },
+   {
+      "key":"lounge_amuse",
+      "value":"Đồ giải trí"
+   },
+   {
+      "key":"lounge_decoration",
+      "value":"Đồ trang trí"
+   },
+   {
+      "key":"lounge_other",
+      "value":"Khác"
+   },
+   {
+      "key":"garden_flower",
+      "value":"Hoa"
+   },
+   {
+      "key":"garden_plant",
+      "value":"Cây"
+   },
+   {
+      "key":"garden_chair",
+      "value":"Ghế sân vườn"
+   },
+   {
+      "key":"garden_mat",
+      "value":"Thảm sân vườn"
+   },
+   {
+      "key":"garden_light",
+      "value":"Đèn sân vườn"
+   },
+   {
+      "key":"garden_statue",
+      "value":"Tượng"
+   },
+   {
+      "key":"garden_nest",
+      "value":"Tổ chim"
+   },
+   {
+      "key":"amuse_facility",
+      "value":"Tiện nghi giải trí"
+   },
+   {
+      "key":"garden_facility",
+      "value":"Tiện nghi sân vườn"
+   },
+   {
+      "key":"large_facility",
+      "value":"Tiện nghi lớn"
+   },
+   {
+      "key":"Bedroom",
+      "value":"Phòng ngủ"
+   },
+   {
+      "key":"Bathroom",
+      "value":"Nhà tắm"
+   },
+   {
+      "key":"look_forward_text",
+      "value":"Chúng tôi vẫn đang xây dựng căn phòng mới này.\nChúng tôi hy vọng bạn sẽ mong chờ nó!"
+   },
+   {
+      "key":"coming_soon",
+      "value":"Sắp ra mắt"
+   },
+
+   {
+      "key":"enter_code_title",
+      "value":"Có một mã đặc biệt? Nhập nó bên dưới:"
+   },
+   {
+      "key":"enter_code",
+      "value":"Nhập mã"
+   },
+   {
+      "key":"follow_us",
+      "value":"Theo dõi chúng tôi trên Twitter và Facebook và tìm kiếm các mã mới."
+   },
+   {
+      "key":"code_failed",
+      "value":"Mã không hợp lệ!"
+   },
+   {
+      "key":"quit_text",
+      "value":"Bạn có muốn thoát khỏi trò chơi?"
+   },
+   {
+      "key":"language",
+      "value":"Ngôn ngữ"
+   },
+   {
+      "key":"cat_cant_play_text",
+      "value":"muốn ở một mình ngay bây giờ!"
+   },
+   {
+      "key":"lucky_channal",
+      "value":"Phần thưởng may mắn"
+   },
+   {
+      "key":"lucky_channal_text",
+      "value":"Bạn muốn có nhiều may mắn?\nXem quảng cáo để có thêm tình yêu!"
+   },
+   {
+      "key":"double_love",
+      "value":"Nhân đôi tình yêu"
+   },
+   {
+      "key":"win_1",
+      "value":"Bạn muốn nhân đôi phần thưởng?\nXem quảng cáo để có thêm tình yêu!"
+   },
+   {
+      "key":"choose_character",
+      "value":"Nhấn để chọn cá tính của bạn"
+   },
+   {
+      "key":"how_to_play",
+      "value":"Cách chơi"
+   },
+   {
+      "key":"mini_game_alertTitle",
+      "value":"Mèo cảm thấy rất cô đơn ngay bây giờ!"
+   },
+   {
+      "key":"mini_game_alertBody",
+      "value":"Về nhà và chơi với những con mèo đáng yêu của bạn. Chúng cần tình yêu của bạn!"
+   },
+   {
+      "key":"more_love",
+      "value":"Yêu thương nhiều hơn!"
+   },
+   {
+      "key":"game_3_name",
+      "value":"Đi tắm"
+   },
+   {
+      "key":"game_3_info_1",
+      "value":"Nghiêng điện thoại sang trái và phải để\nđiều chỉnh nhiệt độ của nhiệt kế để giữ nhiệt độ nước trong phạm vi màu xanh lá."
+   },
+   {
+      "key":"game_3_info_2",
+      "value":"Kéo vòi hoa sen để tắm cho mèo. Bạn sẽ có được một trái tim nếu nhiệt độ nằm trong phạm vi màu xanh lá. Bạn sẽ thắng trò chơi này khi bạn nhận được 5 lần trong số đó."
+   },
+   {
+      "key":"game_3_info_3",
+      "value":"Nếu nhiệt độ nằm trong phạm vi màu đỏ hoặc màu xanh, màn hình của bạn sẽ nhấp nháy. Bạn thua trò chơi này khi bạn 3 lần nhấp nháy."
+   },
+   {
+      "key":"game_2_name",
+      "value":"Làm móng"
+   },
+   {
+      "key":"game_2_info_1",
+      "value":"Sử dụng ngón tay của bạn và nhanh chóng vuốt một đường thẳng để cắt móng tay."
+   },
+   {
+      "key":"game_2_info_2",
+      "value":"Bạn sẽ có một trái tim màu khi bạn cắt móng tay thành công. Bạn thắng trò chơi khi bạn cắt hết móng tay."
+   },
+   {
+      "key":"game_2_info_3",
+      "value":"Màn hình của bạn sẽ nhấp nháy khi bạn chạm vào tay hoặc cánh tay của mèo. Bạn thua trò chơi khi bạn 5 lần nhấp nháy."
+   },
+   {
+      "key":"game_1_name",
+      "value":"Vuốt ve mèo"
+   },
+   {
+      "key":"win",
+      "value":"Bạn thắng"
+   },
+   {
+      "key":"fail",
+      "value":"Bạn thua"
+   },
+   {
+      "key":"fail_1",
+      "value":"Không muốn mất phần thưởng?\nThử lại"
+   },
+   {
+      "key":"try_again",
+      "value":"Thử lại lần nữa"
+   },
+   {
+      "key":"game_1_info_1",
+      "value":"Cố gắng vuốt các chỗ khác nhau của con mèo.\nMột số chỗ được hoan nghênh, nhưng vài chỗ thì không."
+   },
+   {
+      "key":"game_1_info_2",
+      "value":"Khi bạn chạm vào chỗ chào, bạn sẽ nhận được một trái tim màu đỏ! Bạn thắng trò chơi này khi bạn nhận được 5 lần."
+   },
+   {
+      "key":"game_1_info_3",
+      "value":"Khi bạn chạm vào chỗ không mong muốn, màn hình của bạn sẽ nhấp nháy! Bạn thua trò chơi này khi bạn nhận được 3 lần"
+   },
+   {
+      "key":"t_alertBody",
+      "value":"Đã đến lúc chuẩn bị thức ăn!"
+   },
+   {
+      "key":"t_alertTitle",
+      "value":"Đã đi làm về"
+   },
+   {
+      "key":"gift_box",
+      "value":"Hộp quà mèo"
+   },
+   {
+      "key":"got_cat_text",
+      "value":"Trở thành thành viên trong gia đình!"
+   },
+   {
+      "key":"got",
+      "value":"Lấy được"
+   },
+   {
+      "key":"go_to_shop",
+      "value":"Đi đến cửa hàng"
+   },
+   {
+      "key":"sunny",
+      "value":"Trời nắng"
+   },
+   {
+      "key":"cloudy",
+      "value":"Nhiều mây"
+   },
+   {
+      "key":"rainy",
+      "value":"Có mưa"
+   },
+   {
+      "key":"snowy",
+      "value":"Có tuyết"
+   },
+   {
+      "key":"got_love_sign_text",
+      "value":"Bạn có tình yêu từ bầu trời!"
+   },
+   {
+      "key":"got_love_text",
+      "value":"Nhận lấy tình yêu"
+   },
+   {
+      "key":"weather_days_title",
+      "value":"Dự báo thời tiết trong 5 ngày"
+   },
+   {
+      "key":"more_weather",
+      "value":"5 ngày"
+   },
+   {
+      "key":"today",
+      "value":"Hôm nay"
+   },
+   {
+      "key":"first_love_1",
+      "value":"Bạn ơi, xin hãy chấp nhận tình yêu của tôi và tôi sẽ bày cho bạn cách trang trí nhà của chúng ta bằng tình yêu."
+   },
+   {
+      "key":"cat_food_intro_1",
+      "value":"Sau khi bạn đổ đầy thức ăn, mèo sẽ ăn đến khi thời gian đếm ngược kết thúc\nvà bạn sẽ nhận được tình yêu tùy thuộc vào thức ăn mà bạn đổ đầy."
+   },
+   {
+      "key":"start_cat_food_1",
+      "value":"Hình như Snow đang đói.\nChúng ta nên cho nó ăn"
+   },
+   {
+      "key":"moment_intro_1",
+      "value":"Mỗi khi bạn mở trò chơi, sẽ có một cơ hội mà bạn gặp một khoảnh khắc tuyệt vời nào đó! Chăm sóc cho mèo và trang trí khu vườn của bạn sẽ mang lại cho bạn nhiều khoảng khắc hơn!"
+   },
+   {
+      "key":"prepare_food_sign",
+      "value":"Đừng quên chuẩn bị khay thức ăn!"
+   },
+   {
+      "key":"new_animal",
+      "value":"Thú cưng mới xuất hiện! Tìm chúng ngay!"
+   },
+   {
+      "key":"loading",
+      "value":"Đang tải..."
+   },
+   {
+      "key":"alertTitle",
+      "value":"Thời gian mèo ăn!"
+   },
+   {
+      "key":"alertBody",
+      "value":"Có rất nhiều việc phải làm, trở về nhà ngay bây giờ!"
+   },
+   {
+      "key":"cat_alertTitle",
+      "value":"Mèo mang lại cho bạn nhiều hạnh phúc hơn!"
+   },
+   {
+      "key":"cat_alertBody",
+      "value":"Thức ăn của mèo đã hoàn tất, thêm thức ăn và nhận được tình yêu!"
+   },
+   {
+      "key":"goodies_title",
+      "value":"Bộ sưu tập của tôi"
+   },
+   {
+      "key":"finish_sign_1",
+      "value":"Đối tác của bạn đã đi làm và sẽ trở lại trong một vài giờ tới, trong khi chờ đợi...\n1. Nhận tất cả tình yêu\n2. Chăm sóc mèo.\n3. Trang trí Adorable Home của bạn!"
+   },
+   {
+      "key":"1_line",
+      "value":"Đây là ngôi nhà mới của chúng ta kể từ bây giờ.\nChúng ta sẽ có một cuộc sống tuyệt vời ở đây!"
+   },
+   {
+      "key":"2_line",
+      "value":"Tuyệt quá! Tôi thích đấy!\nNhưng nó quá lộn xộn!"
+   },
+   {
+      "key":"3_line",
+      "value":"Bạn nói đúng\nChúng ta cần sửa soạn lại."
+   },
+   {
+      "key":"4_line",
+      "value":"Được rồi! Bắt đầu nào!"
+   },
+   {
+      "key":"5_line",
+      "value":"Xong rồiii...\nTrông tốt hơn rồi đấy"
+   },
+   {
+      "key":"6_line",
+      "value":"Chúng ta thậm chí có thể làm nó tốt hơn!\nÔi nhìn kìa! Có tuyết rơi!"
+   },
+   {
+      "key":"7_line",
+      "value":"Hmm! Cũng đã muộn rồi.\nTôi phải đi làm ngay bây giờ!"
+   },
+   {
+      "key":"8_line",
+      "value":"Chờ 1 phút!\nTôi sẽ chuẩn bị bữa trưa nhanh thôi!"
+   },
+   {
+      "key":"comfirm",
+      "value":"Xác nhận"
+   },
+   {
+      "key":"accept",
+      "value":"Chấp nhận"
+   },
+   {
+      "key":"recieve_love_text_1",
+      "value":"Bạn ơi, tôi về rồi!\nCảm ơn vì bữa ăn\nHãy chấp nhận tình yêu của tôi"
+   },
+   {
+      "key":"yes",
+      "value":"Có"
+   },
+   {
+      "key":"no",
+      "value":"Không"
+   },
+   {
+      "key":"send_you",
+      "value":"Gửi cho bạn"
+   },
+   {
+      "key":"recieve_pet_love_text",
+      "value":"Chấp nhận tất cả tình yêu"
+   },
+   {
+      "key":"b_start_line",
+      "value":"~Chọn cá tính của bạn~"
+   },
+   {
+      "key":"t_start_line",
+      "value":"Nhấn và chọn đối tác"
+   },
+   {
+      "key":"enter_b_name",
+      "value":"Nhập tên"
+   },
+   {
+      "key":"enter_t_name",
+      "value":"Nhập tên đối tác"
+   },
+   {
+      "key":"people_name_limit",
+      "value":"Giới hạn 10 kí tự"
+   },
+   {
+      "key":"livingroom",
+      "value":"Phòng khách"
+   },
+   {
+      "key":"garden",
+      "value":"Vườn"
+   },
+   {
+      "key":"shop",
+      "value":"Cửa hàng"
+   },
+   {
+      "key":"goodies",
+      "value":"Bộ sưu tập"
+   },
+   {
+      "key":"moments",
+      "value":"Khoảnh khắc"
+   },
+   {
+      "key":"setting",
+      "value":"Cài đặt"
+   },
+   {
+      "key":"Livingroom",
+      "value":"Phòng khách"
+   },
+   {
+      "key":"Garden",
+      "value":"Vườn"
+   },
+   {
+      "key":"Food",
+      "value":"Thức ăn"
+   },
+   {
+      "key":"Cats",
+      "value":"Mèo"
+   },
+   {
+      "key":"Visitors",
+      "value":"Khách"
+   },
+   {
+      "key":"Boxes",
+      "value":"Hộp"
+   },
+   {
+      "key":"shop_title",
+      "value":"Mua sắm"
+   },
+   {
+      "key":"more",
+      "value":"Khác"
+   },
+   {
+      "key":"buy_line",
+      "value":"Bạn có muốn mua nó?"
+   },
+   {
+      "key":"cant_buy",
+      "value":"Tình yêu của bạn không đủ!"
+   },
+   {
+      "key":"bought",
+      "value":"Đã mua"
+   },
+   {
+      "key":"in_use",
+      "value":"Đặt"
+   },
+   {
+      "key":"main_dish",
+      "value":"Thức ăn chính"
+   },
+   {
+      "key":"side_dish",
+      "value":"Thức ăn phụ"
+   },
+   {
+      "key":"dessert",
+      "value":"Tráng miệng"
+   },
+   {
+      "key":"box",
+      "value":"Khay thức ăn"
+   },
+   {
+      "key":"pet_food_1",
+      "value":"Thức ăn "
+   },
+   {
+      "key":"pet_food_2",
+      "value":"Thức ăn ngon hơn"
+   },
+   {
+      "key":"pet_food_3",
+      "value":"Cá"
+   },
+   {
+      "key":"pet_food_4",
+      "value":"Cá biển"
+   },
+   {
+      "key":"cost",
+      "value":"Giá"
+   },
+   {
+      "key":"add",
+      "value":"Thêm"
+   },
+   {
+      "key":"later",
+      "value":"Sau"
+   },
+   {
+      "key":"dont_have_line1",
+      "value":"Bạn không có thứ này.\nHãy mua tại cửa hàng."
+   },
+   {
+      "key":"select",
+      "value":"Chọn"
+   },
+   {
+      "key":"selected",
+      "value":"Đã chọn"
+   },
+   {
+      "key":"purchase_failed",
+      "value":"Mua hàng của bạn đã thất bại vì lí do nào đó!"
+   },
+   {
+      "key":"purchase_complete",
+      "value":"Bạn có được nhiều tình yêu hơn!"
+   },
+   {
+      "key":"ads_wait_sign",
+      "value":"Bạn chỉ có thể xem 10 Quảng cáo / ngày!"
+   },
+   {
+      "key":"unlock",
+      "value":"Mở khóa"
+   },
+   {
+      "key":"garden_title",
+      "value":"Khu vườn"
+   },
+   {
+      "key":"garden_buy_complete",
+      "value":"Hãy cảm nhận khu vườn của bạn!"
+   },
+   {
+      "key":"garden_info_1",
+      "value":"Mở khóa khu vườn\nBạn có thể mở rộng cuộc sống của mình đến khu vườn và thu hút những vị khách dễ thương khác nhau ghé thăm!"
+   },
+   {
+      "key":"no_garden_item",
+      "value":"Bạn cần mở khóa khu vườn!"
+   },
+   {
+      "key":"no_food_item",
+      "value":"Bạn không có thức ăn"
+   },
+   {
+      "key":"no_animal_item",
+      "value":"Bạn đã không gặp khách thăm thú!"
+   },
+   {
+      "key":"change_people_title",
+      "value":"Chọn lại cá tính"
+   },
+   {
+      "key":"change_people_1",
+      "value":"Không dễ dàng gì để ở bên nhau. Phá vỡ mối quan hệ! Bạn sẽ có cơ hội chọn lại các nhân vật nếu bạn thanh toán và tất cả dữ liệu trò chơi của bạn sẽ được lưu giữ!"
+   },
+   {
+      "key":"pay",
+      "value":"Thanh toán"
+   },
+   {
+      "key":"buy_people_complete",
+      "value":"Bạn có thể chọn lại tính cách ngay bây giờ"
+   },
+   {
+      "key":"change_language",
+      "value":"Thay đổi ngôn ngữ"
+   },
+   {
+      "key":"English",
+      "value":"English"
+   },
+   {
+      "key":"Chinese",
+      "value":"中文"
+   },
+   {
+      "key":"Japanese",
+      "value":"日本語"
+   },
+   {
+      "key":"French",
+      "value":"Français"
+   },
+   {
+      "key":"Spanish",
+      "value":"Español"
+   },
+   {
+      "key":"rate_game",
+      "value":"Đánh giá trò chơi"
+   },
+   {
+      "key":"characters",
+      "value":"Nhân vật"
+   },
+   {
+      "key":"contact",
+      "value":"Liên hệ"
+   },
+   {
+      "key":"contact_text",
+      "value":"Nếu bạn có bất kỳ vấn đề, xin vui lòng liên hệ"
+   },
+   {
+      "key":"restore",
+      "value":"Khôi phục"
+   },
+   {
+      "key":"restore_complete",
+      "value":"Hoàn tất khôi phục!"
+   },  
+   {
+      "key":"restore_failed",
+      "value":"Khôi phục của bạn đã thất bại vì lí do nào đó!"
+   },
+   {
+      "key":"restore_line_1",
+      "value":"Nếu bạn đã mua khu vườn"
+   },
+   {
+      "key":"restore_line_2",
+      "value":"và cài đặt lại trò chơi này"
+   },
+   {
+      "key":"restore_line_3",
+      "value":"bạn có thể khôi phục nó ở đây!"
+   },
+   {
+      "key":"sound_text",
+      "value":"Hiệu ứng âm thanh"
+   },
+   {
+      "key":"music_text",
+      "value":"Nhạc nền"
+   },
+   {
+      "key":"delete_moment",
+      "value":"Xóa khoảnh khắc?"
+   },
+   {
+      "key":"prepare_food",
+      "value":"Chuẩn bị khay thức ăn"
+   },
+   {
+      "key":"food_info_1",
+      "value":"Nhấn vào khay thức ăn để chọn món chính, món phụ, món tráng miệng và khay. Đối tác của bạn sẽ cho bạn tình yêu tùy thuộc vào mức độ họ thích.\nCombo tuyệt vời mang lại nhiều tình yêu hơn!"
+   },
+   {
+      "key":"got_it",
+      "value":"Được rồi!"
+   },
+   {
+      "key":"save",
+      "value":"Lưu"
+   },
+   {
+      "key":"delete",
+      "value":"Xóa"
+   },
+   {
+      "key":"moment_line_1",
+      "value":"Bấm chụp\nthật nhanh!"
+   },
+   {
+      "key":"saved_sign",
+      "value":"Khoảnh khắc mới đã được lưu!"
+   },
+   {
+      "key":"place_item_text",
+      "value":"Bạn có muốn đặt nó không?"
+   },
+   {
+      "key":"put_away_text",
+      "value":"Bạn có muốn cất nó đi không?"
+   },
+   {
+      "key":"watch_ad_text",
+      "value":"Xem tin tức để có được tình yêu"
+   },
+   {
+      "key":"free",
+      "value":"Nhận tình yêu miễn phí"
+   },
+   {
+      "key":"ad_limit_text",
+      "value":"Bạn chỉ có thể xem 10 Quảng cáo / ngày!"
+   },
+
+
+
+
+
+
+   {
+      "key":"window",
+      "value":""
+   },
+   {
+      "key":"tv_cabinet",
+      "value":"TV stand"
+   },
+   {
+      "key":"tv_cabinet_green",
+      "value":"Green TV Stand"
+   },
+   {
+      "key":"tv_cabinet_yellow",
+      "value":"3-Colors TV Stand"
+   },
+   {
+      "key":"tv_cabinet_oak",
+      "value":"Oak TV Stand"
+   },
+   {
+      "key":"tv_cabinet_blue",
+      "value":"Blue TV Stand"
+   },
+   {
+      "key":"tv_cabinet_brown",
+      "value":"Walnut TV Stand"
+   },
+   {
+      "key":"tv_cabinet_light",
+      "value":"Gray TV Stand"
+   },
+   {
+      "key":"tv_cabinet_white",
+      "value":"Baroque TV Stand"
+   },
+   {
+      "key":"tv_cabinet_gray",
+      "value":"Baroque TV Stand Ⅱ"
+   },
+   {
+      "key":"tv",
+      "value":"Television"
+   },
+   {
+      "key":"sofa",
+      "value":"Gray Sofa"
+   },
+   {
+      "key":"sofa_brown",
+      "value":"Brown Sofa"
+   },
+   {
+      "key":"sofa_blue",
+      "value":"Blue Sofa"
+   },
+   {
+      "key":"sofa_red",
+      "value":"Red Sofa"
+   },
+   {
+      "key":"sofa_white",
+      "value":"White Wooden Sofa"
+   },
+   {
+      "key":"sofa_yellow",
+      "value":"Yellow Wooden Sofa"
+   },
+   {
+      "key":"sofa_pink",
+      "value":"Retro Pink Sofa"
+   },
+   {
+      "key":"sofa_light",
+      "value":"Retro Beige Sofa"
+   },
+   {
+      "key":"sofa_green",
+      "value":"Striped Green Sofa"
+   },
+   {
+      "key":"sofa_beige",
+      "value":"Striped Yellow Sofa"
+   },
+   {
+      "key":"wall_cabinet",
+      "value":"Wall Cabinet"
+   },
+   {
+      "key":"wall_cabinet_green",
+      "value":"Green Wall Cabinet"
+   },
+   {
+      "key":"wall_cabinet_blue",
+      "value":"Blue Wall Cabinet"
+   },
+   {
+      "key":"wall_cabinet_brown",
+      "value":"Brown Wall Cabinet"
+   },
+   {
+      "key":"wall_cabinet_light",
+      "value":"Light Wall Cabinet"
+   },
+   {
+      "key":"wall_shelf_light",
+      "value":"Gray Shelf"
+   },
+   {
+      "key":"wall_shelf_brown",
+      "value":"Wooden Shelf"
+   },
+   {
+      "key":"wall_shelf_white",
+      "value":"Baroque Shelf"
+   },
+   {
+      "key":"wall_shelf_gray",
+      "value":"Baroque Shelf Ⅱ"
+   },
+   {
+      "key":"carpet_orange",
+      "value":"Round Yellow Carpet"
+   },
+   {
+      "key":"carpet_green",
+      "value":"Round Green Carpet"
+   },
+   {
+      "key":"carpet_gray",
+      "value":"Gray Carpet"
+   },
+   {
+      "key":"carpet_brown",
+      "value":"Brown Carpet"
+   },
+   {
+      "key":"carpet_web",
+      "value":"Gray Pattern Carpet"
+   },
+   {
+      "key":"carpet_red",
+      "value":"Red Pattern Carpet"
+   },
+   {
+      "key":"carpet_triangle",
+      "value":"Yellow Pattern Carpet"
+   },
+   {
+      "key":"carpet_ice",
+      "value":"Blue Pattern Carpet"
+   },
+   {
+      "key":"carpet_blue",
+      "value":"Striped blue Carpet"
+   },
+   {
+      "key":"carpet_yellow",
+      "value":"Striped Yellow Carpet"
+   },
+   {
+      "key":"coffee_table_white",
+      "value":"White Coffee Table"
+   },
+   {
+      "key":"coffee_table_gray",
+      "value":"Gray Coffee Table"
+   },
+   {
+      "key":"coffee_table_walnut",
+      "value":"Walnut Coffee Table"
+   },
+   {
+      "key":"coffee_table_elm",
+      "value":"Elm Coffee Table"
+   },
+   {
+      "key":"coffee_table_yellow",
+      "value":"Yellow Coffee Table"
+   },
+   {
+      "key":"coffee_table_blue",
+      "value":"Blue Coffee Table"
+   },
+   {
+      "key":"coffee_table_black",
+      "value":"Black Coffee Table"
+   },
+   {
+      "key":"coffee_table_oak",
+      "value":"Oak Coffee Table"
+   },
+   {
+      "key":"wood_table",
+      "value":"Wood Coffee Table"
+   },
+   {
+      "key":"table_white",
+      "value":"White Table"
+   },
+   {
+      "key":"table_yellow",
+      "value":"Yellow Table"
+   },
+   {
+      "key":"table_walnut",
+      "value":"Walnut Table"
+   },
+   {
+      "key":"table_gray",
+      "value":"Gray Modern Table"
+   },
+   {
+      "key":"table_blue",
+      "value":"Blue Modern Table"
+   },
+   {
+      "key":"table_merbau",
+      "value":"Merbau Wood Table"
+   },
+   {
+      "key":"table_oak",
+      "value":"Oak Table"
+   },
+   {
+      "key":"tea_table",
+      "value":"Japanese Tea Table"
+   },
+   {
+      "key":"lazy_sofa_white",
+      "value":"White Soft Cushion"
+   },
+   {
+      "key":"lazy_sofa_yellow",
+      "value":"Yellow Soft Cushion"
+   },
+   {
+      "key":"lazy_sofa_gray",
+      "value":"Gray Soft Cushion"
+   },
+   {
+      "key":"bookshelf_white",
+      "value":"White Bookshelf"
+   },
+   {
+      "key":"bookshelf_wood",
+      "value":"Wooden Bookshelf"
+   },
+   {
+      "key":"teddy_bear",
+      "value":"Big Teddy Bear"
+   },
+   {
+      "key":"teddy_bear_white",
+      "value":"White Teddy Bear"
+   },
+   {
+      "key":"barcelona_chair",
+      "value":"Barcelona Chair"
+   },
+   {
+      "key":"barcelona_chair_red",
+      "value":"Red Barcelona Chair"
+   },
+   {
+      "key":"egg_chair_gray",
+      "value":"Gray Egg Chair"
+   },
+   {
+      "key":"egg_chair_white",
+      "value":"White Egg Chair"
+   },
+   {
+      "key":"egg_chair_blue",
+      "value":"Ocean Egg Chair"
+   },
+   {
+      "key":"christmas_tree",
+      "value":"Christmas Tree"
+   },
+   {
+      "key":"large_cabinet",
+      "value":"Large Cabinet"
+   },
+   {
+      "key":"large_cabinet_gray",
+      "value":"Large Gray Cabinet"
+   },
+   {
+      "key":"shoebox",
+      "value":"Wooden Shoe Cabinet"
+   },
+   {
+      "key":"shoebox_white",
+      "value":"White Shoe Cabinet"
+   },
+   {
+      "key":"glass_cabinet",
+      "value":"Glass Cabinet"
+   },
+   {
+      "key":"glass_cabinet_green",
+      "value":"Green Glass Cabinet"
+   },
+   {
+      "key":"piano",
+      "value":"Piano"
+   },
+   {
+      "key":"piano_white",
+      "value":"White Piano"
+   },
+   {
+      "key":"aquarium",
+      "value":"Aquarium"
+   },
+   {
+      "key":"fireplace_yellow",
+      "value":"Stone Fireplace"
+   },
+   {
+      "key":"fireplace_blue",
+      "value":"Stone Fireplace Ⅱ"
+   },
+   {
+      "key":"fireplace_white",
+      "value":"Baroque Fireplace"
+   },
+   {
+      "key":"fireplace_black",
+      "value":"Baroque Fireplace Ⅱ"
+   },
+   {
+      "key":"ladder",
+      "value":"Wooden Ladder"
+   },
+   {
+      "key":"ladder_blue",
+      "value":"Blue Ladder"
+   },
+   {
+      "key":"spiral_staircase",
+      "value":"Gray Spiral Stair"
+   },
+   {
+      "key":"spiral_staircase_yellow",
+      "value":"Yellow Spiral Stair"
+   },
+   {
+      "key":"spiral_staircase_white",
+      "value":"White Spiral Stair"
+   },
+   {
+      "key":"cornerstair",
+      "value":"Wooden Staircase"
+   },
+   {
+      "key":"cornerstair_white",
+      "value":"White Staircase"
+   },
+   {
+      "key":"cornerstair_marble",
+      "value":"Marble Staircase"
+   },
+   {
+      "key":"fan",
+      "value":"White Fan"
+   },
+   {
+      "key":"fan_yellow",
+      "value":"Yellow Fan"
+   },
+   {
+      "key":"air_conditioner",
+      "value":"Air Conditioner"
+   },
+   {
+      "key":"air_conditioner_gray",
+      "value":"Air Conditioner Ⅱ"
+   },
+   {
+      "key":"coat_rack_brown",
+      "value":"Walnut Coat Rack"
+   },
+   {
+      "key":"coat_rack_yellow",
+      "value":"Oak Coat Rack"
+   },
+   {
+      "key":"coat_rack_white",
+      "value":"White Tree Rack"
+   },
+   {
+      "key":"coat_rack_gold",
+      "value":"Golden Tree Rack"
+   },
+   {
+      "key":"coat_rack_tree",
+      "value":"Wooden Tree Rack"
+   },
+   {
+      "key":"umbrella",
+      "value":"Black Umbrella"
+   },
+   {
+      "key":"umbrella_blue",
+      "value":"Blue Umbrella"
+   },
+   {
+      "key":"umbrella_red",
+      "value":"Red Umbrella"
+   },
+   {
+      "key":"door_mat_beige",
+      "value":"Beige Rug"
+   },
+   {
+      "key":"door_mat_light",
+      "value":"Light Gray Rug"
+   },
+   {
+      "key":"door_mat_blue",
+      "value":"Blue Stripes Rug"
+   },
+   {
+      "key":"door_mat_red",
+      "value":"Orange Stripes Rug"
+   },
+   {
+      "key":"door_mat_rock",
+      "value":"Rock Pattern Rug"
+   },
+   {
+      "key":"door_mat_yellow",
+      "value":"Bubble shaped Rug"
+   },
+   {
+      "key":"door_mat_ocean",
+      "value":"Bubble shaped Rug Ⅱ"
+   },
+   {
+      "key":"door_mat_gray",
+      "value":"Leaf Pattern Rug"
+   },
+   {
+      "key":"door_mat_green",
+      "value":"Green Rug"
+   },
+   {
+      "key":"door_mat_orange",
+      "value":"Orange Rug"
+   },
+   {
+      "key":"pot_melon",
+      "value":"Pachira Aquatica"
+   },
+   {
+      "key":"pot_green_radish",
+      "value":"Green Dill"
+   },
+   {
+      "key":"pot_cactus",
+      "value":"Cactus"
+   },
+   {
+      "key":"pot_monstera",
+      "value":"Monstera"
+   },
+   {
+      "key":"pot_aloe",
+      "value":"Aloe"
+   },
+   {
+      "key":"pot_rubbertree",
+      "value":"Rubber tree"
+   },
+   {
+      "key":"pot_pinetree",
+      "value":"Little Pine Tree"
+   },
+   {
+      "key":"vase_three",
+      "value":"White Vases Set"
+   },
+   {
+      "key":"vase_beige",
+      "value":"Dry Twigs Vase"
+   },
+   {
+      "key":"vase_red",
+      "value":"Red Dry Twigs Vase"
+   },
+   {
+      "key":"vase_white",
+      "value":"Chinese porcelain"
+   },
+   {
+      "key":"vase_yellow",
+      "value":"Chinese porcelain Ⅱ"
+   },
+   {
+      "key":"vase_green",
+      "value":"Green Vase"
+   },
+   {
+      "key":"vase_blue",
+      "value":"Blue Vase"
+   },
+   {
+      "key":"light",
+      "value":"Floor Lamp"
+   },
+   {
+      "key":"light_black",
+      "value":"Black Floor Lamp"
+   },
+   {
+      "key":"light_red",
+      "value":"Red Floor Lamp"
+   },
+   {
+      "key":"light_china_wood",
+      "value":"Eastern Wood Lamp"
+   },
+   {
+      "key":"light_china_red",
+      "value":"Eastern Red Lamp"
+   },
+   {
+      "key":"light_gold",
+      "value":"Yellow Floor Lamp"
+   },
+   {
+      "key":"light_gray",
+      "value":"Gray Floor Lamp"
+   },
+   {
+      "key":"light_ball",
+      "value":"Modern Silver Lamp"
+   },
+   {
+      "key":"light_ball_gold",
+      "value":"Modern Golden Lamp"
+   },
+   {
+      "key":"light_green",
+      "value":"Green Retro Lamp"
+   },
+   {
+      "key":"light_china",
+      "value":"Ancient Floor Lamp"
+   },
+   {
+      "key":"grid",
+      "value":"Decorative Grid"
+   },
+   {
+      "key":"leaf",
+      "value":"Decorative Painting"
+   },
+   {
+      "key":"wall_paint",
+      "value":"Sweet Home Pictrue"
+   },
+   {
+      "key":"writing",
+      "value":"Calligraphy Works"
+   },
+   {
+      "key":"deer_head",
+      "value":"Deer Head Statue"
+   },
+   {
+      "key":"wreath",
+      "value":"Christmas Wreath"
+   },
+   {
+      "key":"mondrian",
+      "value":"Red Yellow and Blue"
+   },
+   {
+      "key":"vangogh",
+      "value":"Starry Night"
+   },
+   {
+      "key":"dafenqi",
+      "value":"Mon Larissa"
+   },
+   {
+      "key":"flower_1",
+      "value":"Chrysanthemums"
+   },
+   {
+      "key":"flower_2",
+      "value":"Lavender"
+   },
+   {
+      "key":"flower_3",
+      "value":"Roses"
+   },
+   {
+      "key":"flower_4",
+      "value":"Calla Lily"
+   },
+   {
+      "key":"flower_5",
+      "value":"Pink Tulips"
+   },
+   {
+      "key":"flower_6",
+      "value":"Red Tulips"
+   },
+   {
+      "key":"flower_7",
+      "value":"Blue Tulips"
+   },
+   {
+      "key":"flower_8",
+      "value":"White Tulips"
+   },
+   {
+      "key":"flower_9",
+      "value":"Yellow Tulips"
+   },
+   {
+      "key":"flower_10",
+      "value":"Narcissu"
+   },
+   {
+      "key":"flower_11",
+      "value":"White Garden Pot"
+   },
+   {
+      "key":"flower_12",
+      "value":"Golden Garden Pot"
+   },
+   {
+      "key":"flower_13",
+      "value":"Blue Hydrangea"
+   },
+   {
+      "key":"flower_14",
+      "value":"Purple Hydrangea"
+   },
+   {
+      "key":"planter_1",
+      "value":"White Flower Pot"
+   },
+   {
+      "key":"planter_2",
+      "value":"Red Flower Pot"
+   },
+   {
+      "key":"planter_3",
+      "value":"Purple Flower Pot"
+   },
+   {
+      "key":"planter_4",
+      "value":"Yellow Flower Pot"
+   },
+   {
+      "key":"stump",
+      "value":"Stump"
+   },
+   {
+      "key":"plant_1",
+      "value":"Sago Cycas"
+   },
+   {
+      "key":"plant_2",
+      "value":"Birch Tree"
+   },
+   {
+      "key":"plant_3",
+      "value":"Banyan Tree"
+   },
+   {
+      "key":"plant_4",
+      "value":"Cherry Blossom Tree"
+   },
+   {
+      "key":"plant_5",
+      "value":"Fir Tree"
+   },
+   {
+      "key":"plant_6",
+      "value":"Willow Tree"
+   },
+   {
+      "key":"plant_7",
+      "value":"Cypress Tree"
+   },
+   {
+      "key":"plant_8",
+      "value":"Coconut Tree"
+   },
+   {
+      "key":"plant_9",
+      "value":"Peach Tree"
+   },
+   {
+      "key":"plant_10",
+      "value":"Pine Tree"
+   },
+   {
+      "key":"plant_11",
+      "value":"Banana Tree"
+   },
+   {
+      "key":"plant_12",
+      "value":"Desert Cactus"
+   },
+   {
+      "key":"lamp_8",
+      "value":"British Road Lamp"
+   },
+   {
+      "key":"lamp_2",
+      "value":"Wooden Road Lamp"
+   },
+   {
+      "key":"lamp_3",
+      "value":"Antient Road Lamp"
+   },
+   {
+      "key":"lamp_4",
+      "value":"Japanese Road Lamp"
+   },
+   {
+      "key":"lamp_5",
+      "value":"Baroque Road Lamp"
+   },
+   {
+      "key":"lamp_6",
+      "value":"Hollowed Road Lamp"
+   },
+   {
+      "key":"lamp_7",
+      "value":"Stone Road Lamp"
+   },
+   {
+      "key":"lamp_1",
+      "value":"Artistic Road Lamp"
+   },
+   {
+      "key":"scarecrow_2",
+      "value":"White Witch Scarecrow"
+   },
+   {
+      "key":"scarecrow_3",
+      "value":"Black Witch Scarecrow"
+   },
+   {
+      "key":"scarecrow_4",
+      "value":"Blue Pirate Scarecrow"
+   },
+   {
+      "key":"scarecrow_5",
+      "value":"Red Pirate Scarecrow"
+   },
+   {
+      "key":"scarecrow_1",
+      "value":"Pumpkin Scarecrow"
+   },
+   {
+      "key":"sculpture_1",
+      "value":"Easter Island Statue"
+   },
+   {
+      "key":"sculpture_2",
+      "value":"Statue of David"
+   },
+   {
+      "key":"sculpture_3",
+      "value":"Statue of Venus"
+   },
+   {
+      "key":"sculpture_4",
+      "value":"Bronze Age"
+   },
+   {
+      "key":"sculpture_5",
+      "value":"Rome Stone Pillar"
+   },
+   {
+      "key":"sculpture_6",
+      "value":"Golden Cup"
+   },
+   {
+      "key":"sculpture_7",
+      "value":"Silver Cup"
+   },
+   {
+      "key":"wood_flower_4",
+      "value":"Wild Flowers Bush"
+   },
+   {
+      "key":"wood_flower_3",
+      "value":"Colorful Roses"
+   },
+   {
+      "key":"wood_flower_2",
+      "value":"Lavender Bush"
+   },
+   {
+      "key":"wood_flower_1",
+      "value":"Sun Flowers"
+   },
+   {
+      "key":"tent_1",
+      "value":"Starry Night Tent"
+   },
+   {
+      "key":"tent_2",
+      "value":"White Tent"
+   },
+   {
+      "key":"tent_3",
+      "value":"Red Tent"
+   },
+   {
+      "key":"tent_4",
+      "value":"Yellow Tent"
+   },
+   {
+      "key":"trampoline_1",
+      "value":"Black Trampoline"
+   },
+   {
+      "key":"trampoline_2",
+      "value":"Green Trampoline"
+   },
+   {
+      "key":"trampoline_3",
+      "value":"Red Trampoline"
+   },
+   {
+      "key":"trampoline_4",
+      "value":"Blue Trampoline"
+   },
+   {
+      "key":"trampoline_5",
+      "value":"Yellow Trampoline"
+   },
+   {
+      "key":"seesaw_1",
+      "value":"Wooden Seesaw"
+   },
+   {
+      "key":"seesaw_2",
+      "value":"Red Seesaw"
+   },
+   {
+      "key":"seesaw_3",
+      "value":"Yellow Seesaw"
+   },
+   {
+      "key":"horse_2",
+      "value":"Wooden Hobby Horse"
+   },
+   {
+      "key":"horse_1",
+      "value":"Hobby Unicorn"
+   },
+   {
+      "key":"swing_1",
+      "value":"Swing"
+   },
+   {
+      "key":"swing_2",
+      "value":"White Swing"
+   },
+   {
+      "key":"swing_3",
+      "value":"Wooden Swing"
+   },
+   {
+      "key":"hang_bed_1",
+      "value":"Hanging Chair"
+   },
+   {
+      "key":"hang_bed_2",
+      "value":"White Hanging Chair"
+   },
+   {
+      "key":"hang_bed_3",
+      "value":"Gray Hanging Chair"
+   },
+   {
+      "key":"hang_bed_4",
+      "value":"Brown Hanging Chair"
+   },
+   {
+      "key":"pumpkin",
+      "value":"Pumpkins"
+   },
+   {
+      "key":"mashroom",
+      "value":"Mushrooms"
+   },
+   {
+      "key":"treehole",
+      "value":"Tree Hole"
+   },
+   {
+      "key":"big_jar",
+      "value":"Big Jar"
+   },
+   {
+      "key":"cart",
+      "value":"Cart"
+   },
+   {
+      "key":"mermaid",
+      "value":"Mermaid Fountain"
+   },
+   {
+      "key":"well_2",
+      "value":"Old Well"
+   },
+   {
+      "key":"well_1",
+      "value":"Painted Well"
+   },
+   {
+      "key":"water_rock",
+      "value":"Japanese Watering"
+   },
+   {
+      "key":"bench_1",
+      "value":"Blue Park Bench"
+   },
+   {
+      "key":"bench_2",
+      "value":"Wood Park Bench"
+   },
+   {
+      "key":"bench_3",
+      "value":"White Park Bench"
+   },
+   {
+      "key":"mat_1",
+      "value":"Yellow Soft Mat"
+   },
+   {
+      "key":"mat_2",
+      "value":"Brown Soft Mat"
+   },
+   {
+      "key":"mat_3",
+      "value":"Red Soft Mat"
+   },
+   {
+      "key":"mat_4",
+      "value":"White Soft Mat"
+   },
+   {
+      "key":"wood_chair_1",
+      "value":"White Wood Chairs"
+   },
+   {
+      "key":"wood_chair_2",
+      "value":"Dark Wood Chairs"
+   },
+   {
+      "key":"wood_chair_3",
+      "value":"Blue Wood Chairs"
+   },
+   {
+      "key":"elephant",
+      "value":"Elephant Slide"
+   },
+   {
+      "key":"beach_chair_1",
+      "value":"Blue Beach Chairs"
+   },
+   {
+      "key":"beach_chair_2",
+      "value":"Gray Beach Chairs"
+   },
+   {
+      "key":"beach_chair_3",
+      "value":"Yellow Beach Chairs"
+   },
+   {
+      "key":"beach_chair_4",
+      "value":"Red Beach Chairs"
+   },
+   {
+      "key":"picnic_1",
+      "value":"Gray Picnic Blanket"
+   },
+   {
+      "key":"picnic_2",
+      "value":"Yellow Picnic Blanket"
+   },
+   {
+      "key":"picnic_3",
+      "value":"Blue Picnic Blanket"
+   },
+   {
+      "key":"picnic_4",
+      "value":"Red Picnic Blanket"
+   },
+   {
+      "key":"nest_1",
+      "value":"Bird Nest"
+   },
+   {
+      "key":"nest_2",
+      "value":"Painted Bird Shelter"
+   },
+   {
+      "key":"nest_3",
+      "value":"Bird Shelter"
+   },
+   {
+      "key":"nest_4",
+      "value":"Golden Parrot Stand"
+   },
+   {
+      "key":"nest_5",
+      "value":"Silver Parrot Stand"
+   },
+   {
+      "key":"honeycomb",
+      "value":"Honeycomb"
+   },
+   {
+      "key":"pool",
+      "value":"Pool"
+   },
+   {
+      "key":"pond",
+      "value":"Pond"
+   },
+   {
+      "key":"playground",
+      "value":"Playground"
+   },
+   {
+      "key":"zen",
+      "value":"Zen Garden"
+   },
+   {
+      "key":"beach",
+      "value":"Sand Beach"
+   },
+   {
+      "key":"iceburg",
+      "value":"Ice Land"
+   },
+   {
+      "key":"snow",
+      "value":"Snow"
+   },
+   {
+      "key":"niki",
+      "value":"Niki"
+   },
+   {
+      "key":"peanut",
+      "value":"Peanut"
+   },
+   {
+      "key":"oliver",
+      "value":"Oliver"
+   },
+   {
+      "key":"molly",
+      "value":"Molly"
+   },
+   {
+      "key":"moka",
+      "value":"Moka"
+   },
+   {
+      "key":"toby",
+      "value":"Tobby"
+   },
+   {
+      "key":"tiger",
+      "value":"Tiger"
+   },
+   {
+      "key":"max",
+      "value":"Max"
+   },
+   {
+      "key":"gabu",
+      "value":"Gabu"
+   },
+   {
+      "key":"cookie",
+      "value":"Cookie"
+   },
+   {
+      "key":"elisabth",
+      "value":"Elisabth"
+   },
+   {
+      "key":"short_hair",
+      "value":"Short hair Cat"
+   },
+   {
+      "key":"tabby_cat",
+      "value":"Tabby Cat"
+   },
+   {
+      "key":"orange_cat",
+      "value":"Orange Cat"
+   },
+   {
+      "key":"persian_cat",
+      "value":"Persian Cat"
+   },
+   {
+      "key":"spark",
+      "value":"Spark"
+   },
+   {
+      "key":"sparrow",
+      "value":"Sparrow"
+   },
+   {
+      "key":"rainbow",
+      "value":"Rainbow"
+   },
+   {
+      "key":"colorful_bird",
+      "value":"Colorful Sparrow"
+   },
+   {
+      "key":"cici",
+      "value":"Cici"
+   },
+   {
+      "key":"canary",
+      "value":"Canary"
+   },
+   {
+      "key":"honey",
+      "value":"Honey"
+   },
+   {
+      "key":"bee",
+      "value":"Bee"
+   },
+   {
+      "key":"gary",
+      "value":"Gary"
+   },
+   {
+      "key":"parrot",
+      "value":"Parrot"
+   },
+   {
+      "key":"pipin",
+      "value":"Pipin"
+   },
+   {
+      "key":"bono",
+      "value":"Bono"
+   },
+   {
+      "key":"seal",
+      "value":"Seal"
+   },
+   {
+      "key":"polly",
+      "value":"Polly"
+   },
+   {
+      "key":"penguin",
+      "value":"Penguin"
+   },
+   {
+      "key":"owen",
+      "value":"Owen"
+   },
+   {
+      "key":"polar_bear",
+      "value":"Polar Bear"
+   },
+   {
+      "key":"barney",
+      "value":"Barney"
+   },
+   {
+      "key":"sea_lion",
+      "value":"Sea Lion"
+   },
+   {
+      "key":"lexi",
+      "value":"Lexi"
+   },
+   {
+      "key":"turtle",
+      "value":"Turtle"
+   },
+   {
+      "key":"sonny",
+      "value":"Sonny"
+   },
+   {
+      "key":"seagull",
+      "value":"Seagull"
+   },
+   {
+      "key":"ivory",
+      "value":"Ivory"
+   },
+   {
+      "key":"white_fox",
+      "value":"White Fox"
+   },
+   {
+      "key":"mira",
+      "value":"Mira"
+   },
+   {
+      "key":"deer",
+      "value":"Deer"
+   },
+   {
+      "key":"lela",
+      "value":"Lela"
+   },
+   {
+      "key":"crane",
+      "value":"Crane"
+   },
+   {
+      "key":"jasper",
+      "value":"James"
+   },
+   {
+      "key":"monkey",
+      "value":"Monkey"
+   },
+   {
+      "key":"hudson",
+      "value":"Hudson"
+   },
+   {
+      "key":"husky",
+      "value":"Husky"
+   },
+   {
+      "key":"koko",
+      "value":"Robin"
+   },
+   {
+      "key":"sloth",
+      "value":"Sloth"
+   },
+   {
+      "key":"flame",
+      "value":"Flame"
+   },
+   {
+      "key":"flamingo",
+      "value":"Flamingo"
+   },
+   {
+      "key":"fiona",
+      "value":"Fiona"
+   },
+   {
+      "key":"white_swan",
+      "value":"White Swan"
+   },
+   {
+      "key":"ed",
+      "value":"Ed"
+   },
+   {
+      "key":"frog",
+      "value":"Frog"
+   },
+   {
+      "key":"albert",
+      "value":"Albert"
+   },
+   {
+      "key":"golden_retriever",
+      "value":"Golden Retriever"
+   },
+   {
+      "key":"joy",
+      "value":"Joy"
+   },
+   {
+      "key":"duck",
+      "value":"Duck"
+   },
+   {
+      "key":"lorre",
+      "value":"Lorre"
+   },
+   {
+      "key":"otter",
+      "value":"Otter"
+   },
+   {
+      "key":"brandy",
+      "value":"Brandy"
+   },
+   {
+      "key":"beagle",
+      "value":"Beagle Dog"
+   },
+   {
+      "key":"parker",
+      "value":"Parker"
+   },
+   {
+      "key":"samoyed",
+      "value":"Samoyed Dog"
+   },
+   {
+      "key":"nell",
+      "value":"Nell"
+   },
+   {
+      "key":"collie",
+      "value":"Collie Dog"
+   },
+   {
+      "key":"bronco",
+      "value":"Bronco"
+   },
+   {
+      "key":"coonhound",
+      "value":"Coonhound"
+   },
+   {
+      "key":"john",
+      "value":"John"
+   },
+   {
+      "key":"bull_terrier",
+      "value":"Bull Terrier"
+   },
+   {
+      "key":"coco",
+      "value":"Coco"
+   },
+   {
+      "key":"raccoon",
+      "value":"Raccoon"
+   },
+   {
+      "key":"dave",
+      "value":"Dave"
+   },
+   {
+      "key":"red_sparrow",
+      "value":"Red Sparrow"
+   },
+   {
+      "key":"brownie",
+      "value":"Brownie"
+   },
+   {
+      "key":"brown_bear",
+      "value":"Brown Bear"
+   },
+   {
+      "key":"alex",
+      "value":"Alex"
+   },
+   {
+      "key":"red_panda",
+      "value":"Red Panda"
+   },
+   {
+      "key":"brooke",
+      "value":"Brooke"
+   },
+   {
+      "key":"pug",
+      "value":"Pug"
+   },
+   {
+      "key":"jade",
+      "value":"Jade"
+   },
+   {
+      "key":"magpie",
+      "value":"Magpie"
+   },
+   {
+      "key":"daisy",
+      "value":"Daisy"
+   },
+   {
+      "key":"pomeranian",
+      "value":"Pomeranian Dog"
+   },
+   {
+      "key":"judy",
+      "value":"Judy"
+   },
+   {
+      "key":"badger",
+      "value":"Badger"
+   },
+   {
+      "key":"jenny",
+      "value":"Jenny"
+   },
+   {
+      "key":"rabbit",
+      "value":"Rabbit"
+   },
+   {
+      "key":"peter",
+      "value":"Peter"
+   },
+   {
+      "key":"hedgehog",
+      "value":"Hedgehog"
+   },
+   {
+      "key":"rexy",
+      "value":"Rexy"
+   },
+   {
+      "key":"fox",
+      "value":"Fox"
+   },
+   {
+      "key":"yuki",
+      "value":"Yuki"
+   },
+   {
+      "key":"shiba",
+      "value":"Shiba Dog"
+   },
+   {
+      "key":"rosy",
+      "value":"Rosy"
+   },
+   {
+      "key":"butterfly",
+      "value":"Butterfly"
+   },
+   {
+      "key":"vivi",
+      "value":"Vivi"
+   },
+   {
+      "key":"fred",
+      "value":"Fred"
+   },
+   {
+      "key":"schnauzer",
+      "value":"Schnauzer"
+   },
+   {
+      "key":"willy",
+      "value":"Willy"
+   },
+   {
+      "key":"toucan",
+      "value":"Toucan Bird"
+   },
+   {
+      "key":"bobo",
+      "value":"Bobo"
+   },
+   {
+      "key":"koala",
+      "value":"Koala"
+   },
+   {
+      "key":"eddy",
+      "value":"Eddy"
+   },
+   {
+      "key":"blake",
+      "value":"Blake"
+   },
+   {
+      "key":"crow",
+      "value":"Crow"
+   },
+   {
+      "key":"magi",
+      "value":"Magi"
+   },
+   {
+      "key":"shorthair_cat",
+      "value":"Shorthair Cat"
+   },
+   {
+      "key":"oz",
+      "value":"Oz"
+   },
+   {
+      "key":"owl",
+      "value":"Owl"
+   },
+   {
+      "key":"duke",
+      "value":"Duke"
+   },
+   {
+      "key":"siamese_cat",
+      "value":"Siamese Cat"
+   },
+   {
+      "key":"rolex",
+      "value":"Rolex"
+   },
+   {
+      "key":"eagle",
+      "value":"Eagle"
+   },
+   {
+      "key":"yoyo",
+      "value":"Yoyo"
+   },
+   {
+      "key":"chalk",
+      "value":"White marten"
+   },
+   {
+      "key":"yoga",
+      "value":"Yoga"
+   },
+   {
+      "key":"dachshund",
+      "value":"Dachshund"
+   },
+   {
+      "key":"niko",
+      "value":"Niko"
+   },
+   {
+      "key":"short_tailed_cat",
+      "value":"Short-tailed Cat"
+   },
+   {
+      "key":"emily",
+      "value":"Emily"
+   },
+   {
+      "key":"scottish_fold",
+      "value":"Scottish Fold Cat"
+   },
+   {
+      "key":"kaka",
+      "value":"Kaka"
+   },
+   {
+      "key":"crab",
+      "value":"Crab"
+   },
+   {
+      "key":"hank",
+      "value":"Hank"
+   },
+   {
+      "key":"soft_coated_terrier",
+      "value":"Soft-coated Terrier"
+   },
+   {
+      "key":"dolly",
+      "value":"Dolly"
+   },
+   {
+      "key":"squirral",
+      "value":"Squirral"
+   },
+   {
+      "key":"gigi",
+      "value":"Gigi"
+   },
+   {
+      "key":"corgi",
+      "value":"Corgi"
+   },
+   {
+      "key":"nimo",
+      "value":"Nimo"
+   },
+   {
+      "key":"hamster",
+      "value":"Hamster"
+   },
+   {
+      "key":"bobby",
+      "value":"Bobby"
+   },
+   {
+      "key":"teddy",
+      "value":"Poodle Dog"
+   },
+   {
+      "key":"rice",
+      "value":"Rice Balls"
+   },
+   {
+      "key":"sandwich",
+      "value":"Sandwiches"
+   },
+   {
+      "key":"chicken",
+      "value":"Toast Chicken"
+   },
+   {
+      "key":"lamb",
+      "value":"Toast Lambs"
+   },
+   {
+      "key":"beef",
+      "value":"Black Pepper Steak"
+   },
+   {
+      "key":"hamgurger",
+      "value":"Hamburger"
+   },
+   {
+      "key":"pizza",
+      "value":"Pizza"
+   },
+   {
+      "key":"spaghetti",
+      "value":"Seafood Spaghetti"
+   },
+   {
+      "key":"fish",
+      "value":"Fried Fish"
+   },
+   {
+      "key":"sushi",
+      "value":"Sushi"
+   },
+   {
+      "key":"fries",
+      "value":"Fries"
+   },
+   {
+      "key":"bacon",
+      "value":"Fried Egg & Bacon"
+   },
+   {
+      "key":"meat_ball",
+      "value":"Meat Balls"
+   },
+   {
+      "key":"egg_roll",
+      "value":"Egg Rolls"
+   },
+   {
+      "key":"taco",
+      "value":"Mexican Taco"
+   },
+   {
+      "key":"barbecue",
+      "value":"Barbecues"
+   },
+   {
+      "key":"vegetable",
+      "value":"Vegetable Salad"
+   },
+   {
+      "key":"salad",
+      "value":"Avocado Salad"
+   },
+   {
+      "key":"tempura",
+      "value":"Tempura"
+   },
+   {
+      "key":"sashimi",
+      "value":"Sashimi"
+   },
+   {
+      "key":"blueberry",
+      "value":"Blueberry Cake"
+   },
+   {
+      "key":"pie",
+      "value":"key Lime Pie"
+   },
+   {
+      "key":"donut",
+      "value":"Donuts"
+   },
+   {
+      "key":"cupcake",
+      "value":"Cupcakes"
+   },
+   {
+      "key":"pudding",
+      "value":"Puddings"
+   },
+   {
+      "key":"tea_cake",
+      "value":"Matcha Cake Roll"
+   },
+   {
+      "key":"tiramisu",
+      "value":"Tiramisu"
+   },
+   {
+      "key":"napoleon",
+      "value":"Strawberry Napoleon"
+   },
+   {
+      "key":"macaroon",
+      "value":"Macaroon"
+   },
+   {
+      "key":"wagashi",
+      "value":"Wagashi"
+   },
+   {
+      "key":"box_1",
+      "value":"Wooden Bento Box"
+   },
+   {
+      "key":"box_2",
+      "value":"White Bento Box"
+   },
+   {
+      "key":"box_3",
+      "value":"Pink Bento Box"
+   },
+   {
+      "key":"box_4",
+      "value":"Japanese Bento Box"
+   },
+   {
+      "key":"box_5",
+      "value":"Cat-like Bento Box"
+   },
+   {
+      "key":"box_6",
+      "value":"Galaxy Bento Box"
+   },
+   {
+      "key":"sand",
+      "value":"Sand Area"
+   },
+   {
+      "key":"weeds",
+      "value":"Weeds"
+   },
+   {
+      "key":"stone",
+      "value":"Stones"
+   },
+   {
+      "key":"grass",
+      "value":"Thick Grass"
+   },
+   {
+      "key":"offerwall_exit",
+      "value":"Hoàn thành một đề nghị để kiếm được tình yêu miễn phí. Có thể mất đến 24 giờ để nhận phần thưởng của bạn."
+   },
+   {
+      "key":"offerwall_success",
+      "value":"Chúc mừng! Bạn đã hoàn thành một đề nghị và bây giờ đã sẵn sàng để nhận phần thưởng."
+   },
+   {
+      "key":"free_gems",
+      "value":"Kiếm được tình yêu bằng cách hoàn thành cung cấp!"
+   },
+   {
+      "key":"freeOW",
+      "value":"MIỄN PHÍ"
+   }
+
+
+]
