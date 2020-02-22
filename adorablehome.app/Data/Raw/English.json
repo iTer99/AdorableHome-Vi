@@ -1,644 +1,1577 @@
 [
    {
+      "key":"first_night_sign_text",
+      "value":"Tap on the flying fireflies to catch them!"
+   },
+   {
+      "key":"firefly_reward_title",
+      "value":"Lucky!"
+   },
+   {
+      "key":"firefly_reward_text",
+      "value":"This firefly brings you some love!"
+   },
+   {
+      "key":"firefly_ad_title",
+      "value":"Bad Luck!"
+   },
+   {
+      "key":"firefly_ad_text",
+      "value":"This firefly brings you an ad!"
+   },
+   {
+      "key":"skin_color",
+      "value":"Skin Colors"
+   },
+   {
+      "key":"no_bedroom_item",
+      "value":"You need to unlock Bedroom Scene!"
+   },
+   {
+      "key":"bedroom_buy_complete",
+      "value":"Please enjoy your Bedroom!"
+   },
+   {
+      "key":"bedroom_title",
+      "value":"Bedroom Scene"
+   },
+   {
+      "key":"bedroom_info",
+      "value":"Unlocking the Bedroom scene will bring nighttime to your home. More interesting things will happen at night."
+   },
+   {
+      "key":"offerwall_exit",
+      "value":"Complete an offer to earn free love. It may take up to 24 hours to receive your reward."
+   },
+   {
+      "key":"offerwall_success",
+      "value":"Congrats! You completed an offer and are now ready to receive the reward."
+   },
+   {
+      "key":"free_gems",
+      "value":"Earn love by completing offers!"
+   },
+
+
+
+
+   {
+      "key":"bedroom_bed",
+      "value":"Beds"
+   },
+   {
+      "key":"bedroom_nightstand",
+      "value":"Nightstands"
+   },
+   {
+      "key":"bedroom_desk",
+      "value":"Desks"
+   },
+   {
+      "key":"bedroom_cosmo",
+      "value":"Dressing Tables"
+   },
+   {
+      "key":"bedroom_wardrobe",
+      "value":"Wardrobes"
+   },
+   {
+      "key":"bedroom_chair",
+      "value":"Chairs"
+   },
+   {
+      "key":"bedroom_plant",
+      "value":"Plants"
+   },
+   {
+      "key":"bedroom_stand",
+      "value":"Clothes Racks"
+   },
+   {
+      "key":"bedroom_foot",
+      "value":"Benches"
+   },
+   {
+      "key":"bedroom_vase",
+      "value":"Vases"
+   },
+   {
+      "key":"bedroom_light",
+      "value":"Lights"
+   },
+   {
+      "key":"bedroom_toy",
+      "value":"Toys"
+   },
+   {
+      "key":"bedroom_carpet",
+      "value":"Carpets"
+   },
+
+
+
+
+   {
+      "key":"bedroom_bed_1",
+      "value":"White Wooden Bed"
+   },
+   {
+      "key":"bedroom_bed_2",
+      "value":"Wooden Bed"
+   },
+   {
+      "key":"bedroom_bed_3",
+      "value":"Blue Wooden Bed"
+   },
+   {
+      "key":"bedroom_bed_4",
+      "value":"Grey Fabric Bed"
+   },
+   {
+      "key":"bedroom_bed_5",
+      "value":"Pink Fabric Bed"
+   },
+   {
+      "key":"bedroom_bed_6",
+      "value":"Brown Fabric Bed"
+   },
+   {
+      "key":"bedroom_bed_7",
+      "value":"Starry Night Bed"
+   },
+   {
+      "key":"bedroom_bed_8",
+      "value":"Elm Bed"
+   },
+   {
+      "key":"bedroom_bed_9",
+      "value":"Walnut Bed"
+   },
+   {
+      "key":"bedroom_bed_10",
+      "value":"Black Wooden Bed"
+   },
+   {
+      "key":"bedroom_bed_11",
+      "value":"Wrought Iron Bed"
+   },
+   {
+      "key":"bedroom_bed_12",
+      "value":"Red Wrought Iron Bed"
+   },
+   {
+      "key":"bedroom_bed_13",
+      "value":"White Wrought Iron Bed"
+   },
+   {
+      "key":"bedroom_bed_14",
+      "value":"Golden Wrought Iron Bed"
+   },
+   {
+      "key":"bedroom_bed_15",
+      "value":"Classic Bed"
+   },
+   {
+      "key":"bedroom_bed_16",
+      "value":"Green Classic Bed"
+   },
+   {
+      "key":"bedroom_bed_17",
+      "value":"Wood Grain Bed"
+   },
+   {
+      "key":"bedroom_bed_18",
+      "value":"Luxury Royal Bed"
+   },
+   {
+      "key":"bedroom_bed_19",
+      "value":"Red Luxury Royal Bed"
+   },
+   {
+      "key":"bedroom_bed_20",
+      "value":"Blue Luxury Royal Bed"
+   },
+   {
+      "key":"bedroom_table_1",
+      "value":"Wooden Nightstand"
+   },
+   {
+      "key":"bedroom_table_2",
+      "value":"White Nightstand"
+   },
+   {
+      "key":"bedroom_table_3",
+      "value":"Gray Nightstand"
+   },
+   {
+      "key":"bedroom_table_4",
+      "value":"Blue Nightstand"
+   },
+   {
+      "key":"bedroom_table_5",
+      "value":"Red Nightstand"
+   },
+   {
+      "key":"bedroom_table_6",
+      "value":"Yellow Nightstand"
+   },
+   {
+      "key":"bedroom_table_7",
+      "value":"Golden Shelf Unit"
+   },
+   {
+      "key":"bedroom_table_8",
+      "value":"wooden Shelf Unit"
+   },
+   {
+      "key":"bedroom_table_9",
+      "value":"Blue Shelf Unit"
+   },
+   {
+      "key":"bedroom_table_10",
+      "value":"Walnut Nightstand"
+   },
+   {
+      "key":"bedroom_table_11",
+      "value":"Classic Nightstand"
+   },
+   {
+      "key":"bedroom_table_12",
+      "value":"Green Nightstand"
+   },
+   {
+      "key":"bedroom_table_13",
+      "value":"White Royal Nightstand"
+   },
+   {
+      "key":"bedroom_table_14",
+      "value":"Dark Royal Nightstand"
+   },
+   {
+      "key":"bedroom_study_1",
+      "value":"White Desk"
+   },
+   {
+      "key":"bedroom_study_2",
+      "value":"Yellow Desk"
+   },
+   {
+      "key":"bedroom_study_3",
+      "value":"Wooden Desk"
+   },
+   {
+      "key":"bedroom_study_4",
+      "value":"Green Desk"
+   },
+   {
+      "key":"bedroom_study_5",
+      "value":"Dark Modern Desk"
+   },
+   {
+      "key":"bedroom_study_6",
+      "value":"Red Modern Desk"
+   },
+   {
+      "key":"bedroom_study_7",
+      "value":"Blue Modern Desk"
+   },
+   {
+      "key":"bedroom_study_8",
+      "value":"Dark Classic Desk"
+   },
+   {
+      "key":"bedroom_study_9",
+      "value":"Wooden Classic Desk"
+   },
+   {
+      "key":"bedroom_study_10",
+      "value":"White Classic Desk"
+   },
+   {
+      "key":"bedroom_study_11",
+      "value":"White Royal Desk"
+   },
+   {
+      "key":"bedroom_study_12",
+      "value":"Blue Royal Desk"
+   },
+   {
+      "key":"bedroom_cosmetic_1",
+      "value":"White Dressing Table"
+   },
+   {
+      "key":"bedroom_cosmetic_2",
+      "value":"Pink Dressing Table"
+   },
+   {
+      "key":"bedroom_cosmetic_3",
+      "value":"Blue Dressing Table"
+   },
+   {
+      "key":"bedroom_cosmetic_4",
+      "value":"Wooden Dressing Table"
+   },
+   {
+      "key":"bedroom_cosmetic_5",
+      "value":"Green Dressing Table"
+   },
+   {
+      "key":"bedroom_cosmetic_6",
+      "value":"Classic Dressing Table"
+   },
+   {
+      "key":"bedroom_cosmetic_7",
+      "value":"Eastern Dressing Table"
+   },
+   {
+      "key":"bedroom_cosmetic_8",
+      "value":"Dark Eastern Dressing Table"
+   },
+   {
+      "key":"bedroom_cosmetic_9",
+      "value":"Blue Modern Dressing Table"
+   },
+   {
+      "key":"bedroom_cosmetic_10",
+      "value":"Yellow Modern Dressing Table"
+   },
+   {
+      "key":"bedroom_cosmetic_11",
+      "value":"White Modern Dressing Table"
+   },
+   {
+      "key":"bedroom_cosmetic_12",
+      "value":"Royal Dressing Table"
+   },
+   {
+      "key":"bedroom_cosmetic_13",
+      "value":"Golden Royal Dressing Table"
+   },
+   {
+      "key":"bedroom_closet_1",
+      "value":"Light-colored Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_2",
+      "value":"Gray Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_3",
+      "value":"Wooden Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_4",
+      "value":"White Modern Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_5",
+      "value":"Blue Modern Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_6",
+      "value":"Yellow Modern Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_7",
+      "value":"Japanese Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_8",
+      "value":"Painted Japanese Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_9",
+      "value":"Walnut Open Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_10",
+      "value":"Elm Open Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_11",
+      "value":"Green Open Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_12",
+      "value":"Classic Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_13",
+      "value":"White Classic Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_14",
+      "value":"Royal Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_15",
+      "value":"Blue Royal Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_16",
+      "value":"Big Elm Open Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_17",
+      "value":"Big Walnut Open Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_18",
+      "value":"Big white Open Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_19",
+      "value":"Big Wooden Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_20",
+      "value":"Big Gray Wardrobe"
+   },
+   {
+      "key":"bedroom_closet_21",
+      "value":"Big Blue Wardrobe"
+   },
+   {
+      "key":"bedroom_sofa_1",
+      "value":"White Diamond Chair"
+   },
+   {
+      "key":"bedroom_sofa_2",
+      "value":"Green Diamond Chair"
+   },
+   {
+      "key":"bedroom_sofa_3",
+      "value":"Brown Diamond Chair"
+   },
+   {
+      "key":"bedroom_sofa_4",
+      "value":"Yellow Diamond Chair"
+   },
+   {
+      "key":"bedroom_sofa_5",
+      "value":"Gray Womb Chair"
+   },
+   {
+      "key":"bedroom_sofa_6",
+      "value":"Yellow Womb Chair"
+   },
+   {
+      "key":"bedroom_sofa_7",
+      "value":"Red Womb Chair"
+   },
+   {
+      "key":"bedroom_sofa_8",
+      "value":"Blue Womb Chair"
+   },
+   {
+      "key":"bedroom_sofa_9",
+      "value":"Gray Single Sofa"
+   },
+   {
+      "key":"bedroom_sofa_10",
+      "value":"Blue Single Sofa"
+   },
+   {
+      "key":"bedroom_sofa_11",
+      "value":"Brown Single Sofa"
+   },
+   {
+      "key":"bedroom_sofa_12",
+      "value":"Yellow Cozy Chair"
+   },
+   {
+      "key":"bedroom_sofa_13",
+      "value":"White Cozy Chair"
+   },
+   {
+      "key":"bedroom_sofa_14",
+      "value":"Green Cozy Chair"
+   },
+   {
+      "key":"bedroom_sofa_15",
+      "value":"White Cat Sofa"
+   },
+   {
+      "key":"bedroom_sofa_16",
+      "value":"Brown Cat Sofa"
+   },
+   {
+      "key":"bedroom_sofa_17",
+      "value":"Gray Cat Sofa"
+   },
+   {
+      "key":"bedroom_sofa_18",
+      "value":"Blue Shell Chair"
+   },
+   {
+      "key":"bedroom_sofa_19",
+      "value":"Pink Shell Chair"
+   },
+   {
+      "key":"bedroom_sofa_20",
+      "value":"White Shell Chair"
+   },
+   {
+      "key":"bedroom_plant_1",
+      "value":"Banana Tree"
+   },
+   {
+      "key":"bedroom_plant_2",
+      "value":"Alocasia Macrorrhiza"
+   },
+   {
+      "key":"bedroom_plant_3",
+      "value":"Cactus"
+   },
+   {
+      "key":"bedroom_plant_4",
+      "value":"Potted Aloe"
+   },
+   {
+      "key":"bedroom_plant_5",
+      "value":"Desert Cactus"
+   },
+   {
+      "key":"bedroom_plant_6",
+      "value":"Monstera"
+   },
+   {
+      "key":"bedroom_plant_7",
+      "value":"Olive Tree"
+   },
+   {
+      "key":"bedroom_plant_8",
+      "value":"Yugali"
+   },
+   {
+      "key":"bedroom_plant_9",
+      "value":"Aglaia Odorata"
+   },
+   {
+      "key":"bedroom_hang_1",
+      "value":"White Clothes Stand"
+   },
+   {
+      "key":"bedroom_hang_2",
+      "value":"Wooden Clothes Stand"
+   },
+   {
+      "key":"bedroom_hang_3",
+      "value":"Blue Clothes Stand"
+   },
+   {
+      "key":"bedroom_hang_4",
+      "value":"Tree Hanger"
+   },
+   {
+      "key":"bedroom_hang_5",
+      "value":"Dark Tree Hanger"
+   },
+   {
+      "key":"bedroom_hang_6",
+      "value":"Classic Clothes Stand"
+   },
+   {
+      "key":"bedroom_hang_7",
+      "value":"White Clothes Stand"
+   },
+   {
+      "key":"bedroom_hang_8",
+      "value":"Luxury Clothes Stand"
+   },
+   {
+      "key":"bedroom_stand_1",
+      "value":"Dark Clothes Rack"
+   },
+   {
+      "key":"bedroom_stand_2",
+      "value":"Golden Clothes rack"
+   },
+   {
+      "key":"bedroom_stand_3",
+      "value":"Wooden Clothes rack"
+   },
+   {
+      "key":"bedroom_stand_4",
+      "value":"White Clothes rack"
+   },
+   {
+      "key":"bedroom_stand_5",
+      "value":"Elm Clothes rack"
+   },
+   {
+      "key":"bedroom_stand_6",
+      "value":"Walnut Clothes rack"
+   },
+   {
+      "key":"bedroom_foot_1",
+      "value":"White Bedroom Bench"
+   },
+   {
+      "key":"bedroom_foot_2",
+      "value":"Black Bedroom Bench"
+   },
+   {
+      "key":"bedroom_foot_3",
+      "value":"Light Green Bedroom Bench"
+   },
+   {
+      "key":"bedroom_foot_4",
+      "value":"Gray Bedroom Bench"
+   },
+   {
+      "key":"bedroom_foot_5",
+      "value":"Blue Bedroom Bench"
+   },
+   {
+      "key":"bedroom_foot_6",
+      "value":"Pink Bedroom Bench"
+   },
+   {
+      "key":"bedroom_foot_7",
+      "value":"Yellow Bedroom Bench"
+   },
+   {
+      "key":"bedroom_foot_8",
+      "value":"Brown Bedroom Bench"
+   },
+   {
+      "key":"bedroom_foot_9",
+      "value":"Green Bedroom Bench"
+   },
+   {
+      "key":"bedroom_foot_10",
+      "value":"Red Bedroom Bench"
+   },
+   {
+      "key":"bedroom_foot_11",
+      "value":"Pure White Bedroom Bench"
+   },
+   {
+      "key":"bedroom_foot_12",
+      "value":"Night Sky Bedroom Bench"
+   },
+   {
+      "key":"bedroom_foot_13",
+      "value":"Royal Bedroom Bench"
+   },
+   {
+      "key":"bedroom_foot_14",
+      "value":"Blue Royal Bedroom Bench"
+   },
+   {
+      "key":"bedroom_flower_1",
+      "value":"Blue Vase"
+   },
+   {
+      "key":"bedroom_flower_2",
+      "value":"Gray Vase"
+   },
+   {
+      "key":"bedroom_flower_3",
+      "value":"Clay pot & White flowers"
+   },
+   {
+      "key":"bedroom_flower_4",
+      "value":"Clay pot & Yellow flowers"
+   },
+   {
+      "key":"bedroom_flower_5",
+      "value":"Colorful Vases"
+   },
+   {
+      "key":"bedroom_flower_6",
+      "value":"Colorful Vases"
+   },
+   {
+      "key":"bedroom_flower_7",
+      "value":"Yellow Vase"
+   },
+   {
+      "key":"bedroom_flower_8",
+      "value":"White Vase"
+   },
+   {
+      "key":"bedroom_flower_9",
+      "value":"Glass Vase & White Flowers"
+   },
+   {
+      "key":"bedroom_flower_10",
+      "value":"Glass Vase & Red Flowers"
+   },
+   {
+      "key":"bedroom_flower_11",
+      "value":"White Portrait Vase"
+   },
+   {
+      "key":"bedroom_flower_12",
+      "value":"Dark Portrait Vase"
+   },
+   {
+      "key":"bedroom_light_1",
+      "value":"Blue Floor Lamp"
+   },
+   {
+      "key":"bedroom_light_2",
+      "value":"Green Floor Lamp"
+   },
+   {
+      "key":"bedroom_light_3",
+      "value":"Light Green Lamp"
+   },
+   {
+      "key":"bedroom_light_4",
+      "value":"Pink Lamp"
+   },
+   {
+      "key":"bedroom_light_5",
+      "value":"Classic Lamp"
+   },
+   {
+      "key":"bedroom_light_6",
+      "value":"Golden Classic Lamp"
+   },
+   {
+      "key":"bedroom_light_7",
+      "value":"Golden Modern Lamp"
+   },
+   {
+      "key":"bedroom_light_8",
+      "value":"Silver Modern Lamp"
+   },
+   {
+      "key":"bedroom_light_9",
+      "value":"Tree Lamp"
+   },
+   {
+      "key":"bedroom_light_10",
+      "value":"Golden Tree Lamp"
+   },
+   {
+      "key":"bedroom_light_11",
+      "value":"Eastern Lamp"
+   },
+   {
+      "key":"bedroom_light_12",
+      "value":"Dark Eastern Lamp"
+   },
+   {
+      "key":"bedroom_toy_1",
+      "value":"Yellow Cat Nest"
+   },
+   {
+      "key":"bedroom_toy_2",
+      "value":"Dark Cat Nest"
+   },
+   {
+      "key":"bedroom_toy_3",
+      "value":"White Cat Nest"
+   },
+   {
+      "key":"bedroom_toy_4",
+      "value":"Pink Shell Nest"
+   },
+   {
+      "key":"bedroom_toy_5",
+      "value":"Shell Nest"
+   },
+   {
+      "key":"bedroom_toy_6",
+      "value":"Blue Shell Nest"
+   },
+   {
+      "key":"bedroom_toy_7",
+      "value":"Red Paper Car"
+   },
+   {
+      "key":"bedroom_toy_8",
+      "value":"Green Paper Car"
+   },
+   {
+      "key":"bedroom_toy_9",
+      "value":"Brown Paper Car"
+   },
+   {
+      "key":"bedroom_toy_10",
+      "value":"Pumpkin Nest"
+   },
+   {
+      "key":"bedroom_toy_11",
+      "value":"Yellow Pumpkin Nest"
+   },
+   {
+      "key":"bedroom_toy_12",
+      "value":"UFO Nest"
+   },
+   {
+      "key":"bedroom_toy_13",
+      "value":"Colorful UFO Nest"
+   },
+   {
+      "key":"bedroom_toy_14",
+      "value":"Blue Lantern Fish"
+   },
+   {
+      "key":"bedroom_toy_15",
+      "value":"Yellow Lantern Fish"
+   },
+   {
+      "key":"bedroom_chair_1",
+      "value":"Fabric Stool"
+   },
+   {
+      "key":"bedroom_chair_2",
+      "value":"Yellow Fabric Stool"
+   },
+   {
+      "key":"bedroom_chair_3",
+      "value":"Blue Fabric Stool"
+   },
+   {
+      "key":"bedroom_chair_4",
+      "value":"Brown Fabric Stool"
+   },
+   {
+      "key":"bedroom_mirror_1",
+      "value":"Mirror"
+   },
+   {
+      "key":"bedroom_mirror_2",
+      "value":"Wooden Mirror"
+   },
+   {
+      "key":"bedroom_mirror_3",
+      "value":"Yellow Modern Mirror"
+   },
+   {
+      "key":"bedroom_mirror_4",
+      "value":"Blue Modern Mirror"
+   },
+   {
+      "key":"bedroom_mirror_5",
+      "value":"Pink Modern Mirror"
+   },
+   {
+      "key":"bedroom_mirror_6",
+      "value":"Royal Mirror"
+   },
+   {
+      "key":"bedroom_mirror_7",
+      "value":"Golden Royal Mirror"
+   },
+   {
+      "key":"bedroom_carpet_1",
+      "value":"Yellow Round Carpet"
+   },
+   {
+      "key":"bedroom_carpet_2",
+      "value":"Pink Round Carpet"
+   },
+   {
+      "key":"bedroom_carpet_3",
+      "value":"Green Round Carpet"
+   },
+   {
+      "key":"bedroom_carpet_4",
+      "value":"Blue Pattern Carpet"
+   },
+   {
+      "key":"bedroom_carpet_5",
+      "value":"Green Pattern Carpet"
+   },
+   {
+      "key":"bedroom_carpet_6",
+      "value":"Gray Striped Carpet"
+   },
+   {
+      "key":"bedroom_carpet_7",
+      "value":"Green Striped Carpet"
+   },
+   {
+      "key":"bedroom_carpet_8",
+      "value":"Brown striped Carpet"
+   },
+   {
+      "key":"bedroom_carpet_9",
+      "value":"Gray Veins Carpet"
+   },
+   {
+      "key":"bedroom_carpet_10",
+      "value":"Brown Veins Carpet"
+   },
+   {
+      "key":"bedroom_carpet_11",
+      "value":"Blue Striped Carpet"
+   },
+   {
+      "key":"bedroom_carpet_12",
+      "value":"Red Striped Carpet"
+   },
+   {
+      "key":"bedroom_carpet_13",
+      "value":"Blue Classic Carpet"
+   },
+   {
+      "key":"bedroom_carpet_14",
+      "value":"Brown Classic Carpet"
+   },
+   {
+      "key":"bedroom_carpet_15",
+      "value":"Brown Art Carpet"
+   },
+   {
+      "key":"bedroom_carpet_16",
+      "value":"Blue Art Carpet"
+   },
+   {
+      "key":"bedroom_carpet_17",
+      "value":"Purple Art Carpet"
+   },
+
+
+
+
+
+   {
       "key":"lounge_items",
-      "value":"Đồ dùng phòng khách"
+      "value":"Lounge Items"
    },
    {
       "key":"garden_items",
-      "value":"Đồ dùng ngoài vườn"
+      "value":"Garden Items"
    },
    {
       "key":"bedroom_items",
-      "value":"Đồ dùng phòng ngủ"
+      "value":"Bedroom Items"
    },
    {
       "key":"bathroom_items",
-      "value":"Đồ dùng nhà tắm"
+      "value":"Bathroom Items"
    },
    {
       "key":"food_items",
-      "value":"Thực phẩm & Đồ hộp"
+      "value":"Foods & Boxes"
    },
    {
       "key":"cat_items",
-      "value":"Mèo"
+      "value":"Cat Boxes"
    },
    {
       "key":"lounge_electronic",
-      "value":"Đồ điện tử"
+      "value":"Electronics"
    },
    {
       "key":"lounge_sofa",
-      "value":"Ghế sofa"
+      "value":"Sofas"
    },
    {
       "key":"lounge_table",
-      "value":"Bàn"
+      "value":"Tables"
    },
    {
       "key":"lounge_cabinet",
-      "value":"Tủ"
+      "value":"Cabinets"
    },
    {
       "key":"lounge_chair",
-      "value":"Ghế"
+      "value":"Chairs"
    },
    {
       "key":"lounge_carpet",
-      "value":"Thảm"
+      "value":"Carpets"
    },
    {
       "key":"lounge_stair",
-      "value":"Cầu thang"
+      "value":"Stairs"
    },
    {
       "key":"lounge_lamp",
-      "value":"Đèn"
+      "value":"Lamps"
    },
    {
       "key":"lounge_pot",
-      "value":"Chậu cây"
+      "value":"Potted Plants"
    },
    {
       "key":"lounge_vase",
-      "value":"Bình hoa"
+      "value":"Vases"
    },
    {
       "key":"lounge_amuse",
-      "value":"Đồ giải trí"
+      "value":"Amusement items"
    },
    {
       "key":"lounge_decoration",
-      "value":"Vật trang trí"
+      "value":"Decorations"
    },
    {
       "key":"lounge_other",
-      "value":"Khác"
+      "value":"Others"
    },
    {
       "key":"garden_flower",
-      "value":"Hoa"
+      "value":"Flowers"
    },
    {
       "key":"garden_plant",
-      "value":"Cây"
+      "value":"Plants"
    },
    {
       "key":"garden_chair",
-      "value":"Ghế sân vườn"
+      "value":"Garden Chairs"
    },
    {
       "key":"garden_mat",
-      "value":"Thảm sân vườn"
+      "value":"Garden Mats"
    },
    {
       "key":"garden_light",
-      "value":"Đèn sân vườn"
+      "value":"Garden Lights"
    },
    {
       "key":"garden_statue",
-      "value":"Tượng/Hình nộm"
+      "value":"Statues"
    },
    {
       "key":"garden_nest",
-      "value":"Tổ chim"
+      "value":"Nests"
    },
    {
       "key":"amuse_facility",
-      "value":"Giải trí"
+      "value":"Amusement Facilities"
    },
    {
       "key":"garden_facility",
-      "value":"Làm vườn"
+      "value":"Garden Facilities"
    },
    {
       "key":"large_facility",
-      "value":"Công trình lớn"
+      "value":"Large Facilities"
    },
    {
       "key":"Bedroom",
-      "value":"Phòng ngủ"
+      "value":"Bedroom"
    },
    {
       "key":"Bathroom",
-      "value":"Nhà tắm"
+      "value":"Bathroom"
    },
    {
       "key":"look_forward_text",
-      "value":"Chúng tôi vẫn đang xây dựng căn phòng mới này.\nChúng tôi hy vọng bạn sẽ mong chờ nó!"
+      "value":"We are still building this new room.\nWe hope you’re looking forward to it!"
    },
    {
       "key":"coming_soon",
-      "value":"Sắp ra mắt"
+      "value":"Coming Soon"
    },
 
    {
       "key":"enter_code_title",
-      "value":"Có một mã đặc biệt? Nhập nó bên dưới:"
+      "value":"Have a special code? Insert it below:"
    },
    {
       "key":"enter_code",
-      "value":"Nhập mã"
+      "value":"Enter the code"
    },
    {
       "key":"follow_us",
-      "value":"Theo dõi chúng tôi trên Twitter và Facebook và tìm kiếm các mã mới."
+      "value":"Follow us on Twitter & Facebook and be on the lookout for new codes."
    },
    {
       "key":"code_failed",
-      "value":"Mã không hợp lệ!"
+      "value":"Invalid code!"
    },
    {
       "key":"quit_text",
-      "value":"Bạn có muốn thoát khỏi trò chơi?"
+      "value":"Do you want to quit the game?"
    },
    {
       "key":"language",
-      "value":"Ngôn ngữ"
+      "value":"Language"
    },
    {
       "key":"cat_cant_play_text",
-      "value":"Muốn ở một mình ngay bây giờ!"
+      "value":"wants to stay alone right now!"
    },
    {
       "key":"lucky_channal",
-      "value":"Phần thưởng may mắn"
+      "value":"Lucky Channel Reward"
    },
    {
       "key":"lucky_channal_text",
-      "value":"Bạn muốn có nhiều may mắn?\nXem quảng cáo để có thêm tim!"
+      "value":"Want to have more luck?\nWatch an AD for more love!"
    },
    {
       "key":"double_love",
-      "value":"Nhân đôi tim"
+      "value":"Double Love"
    },
    {
       "key":"win_1",
-      "value":"Bạn muốn nhân đôi phần thưởng?\nXem quảng cáo để có thêm tim!"
+      "value":"Want to double your rewards?\nWatch an AD for more love!"
    },
    {
       "key":"choose_character",
-      "value":"Nhấn để chọn cá tính của bạn"
+      "value":"Tap to choose your character"
    },
    {
       "key":"how_to_play",
-      "value":"Cách chơi"
+      "value":"How to play"
    },
    {
       "key":"mini_game_alertTitle",
-      "value":"Mèo cảm thấy rất cô đơn ngay bây giờ!"
+      "value":"Cats feel so lonely right now!"
    },
    {
       "key":"mini_game_alertBody",
-      "value":"Về nhà và chơi với những con mèo đáng yêu của bạn. Chúng cần tình yêu của bạn!"
+      "value":"Come home and play with your adorable cats. They need your love!"
    },
    {
       "key":"more_love",
-      "value":"Yêu thương nhiều hơn!"
+      "value":"More Love!"
    },
    {
       "key":"game_3_name",
-      "value":"Đi tắm"
+      "value":"Take a shower"
    },
    {
       "key":"game_3_info_1",
-      "value":"Nghiêng điện thoại sang trái và phải để\nđiều chỉnh nhiệt độ của nhiệt kế để giữ nhiệt độ nước trong phạm vi màu xanh lá."
+      "value":"Tilt the phone left and right to\ncontrol the temperature of the thermometer to keep the water temperature in the green range."
    },
    {
       "key":"game_3_info_2",
-      "value":"Kéo vòi hoa sen để tắm cho mèo. Bạn sẽ có được một trái tim nếu nhiệt độ nằm trong phạm vi màu xanh lá. Bạn sẽ thắng trò chơi này khi bạn nhận được 5 lần trong số đó."
+      "value":"Drag shower nozzle to shower the cat. You will get a heart if the temperature is in green range. You win this game when you get five of it first."
    },
    {
       "key":"game_3_info_3",
-      "value":"Nếu nhiệt độ nằm trong phạm vi màu đỏ hoặc màu xanh, màn hình của bạn sẽ nhấp nháy. Bạn thua trò chơi này khi bạn 3 lần nhấp nháy."
+      "value":"If the temperature is in red or blue range, you will get a flash. You lose this game when you get three of it first."
    },
    {
       "key":"game_2_name",
-      "value":"Làm móng"
+      "value":"Cut nails"
    },
    {
       "key":"game_2_info_1",
-      "value":"Sử dụng ngón tay của bạn và nhanh chóng vuốt một đường thẳng để cắt móng tay."
+      "value":"Use your finger tip and try to swipe a straight line quickly to cut nails."
    },
    {
       "key":"game_2_info_2",
-      "value":"Bạn sẽ có một trái tim màu khi bạn cắt móng tay thành công. Bạn thắng trò chơi khi bạn cắt hết móng tay."
+      "value":"You will get a red heart when you cut off a nail successfully. You win the game when you cut off all the nails."
    },
    {
       "key":"game_2_info_3",
-      "value":"Màn hình của bạn sẽ nhấp nháy khi bạn chạm vào tay hoặc cánh tay của mèo. Bạn thua trò chơi khi bạn 5 lần nhấp nháy."
+      "value":"You will get a flash when you touch cat's hands or arms. You lose the game when you get 5 flashes first."
    },
    {
       "key":"game_1_name",
-      "value":"Vuốt ve mèo"
+      "value":"Stroke cat"
    },
    {
       "key":"win",
-      "value":"Bạn thắng"
+      "value":"You Made It"
    },
    {
       "key":"fail",
-      "value":"Bạn thua"
+      "value":"You Failed"
    },
    {
       "key":"fail_1",
-      "value":"Không muốn mất phần thưởng?\nThử lại"
+      "value":"Don't want to lose reward?\nHow about try it again!"
    },
    {
       "key":"try_again",
-      "value":"Thử lại lần nữa"
+      "value":"Try again"
    },
    {
       "key":"game_1_info_1",
-      "value":"Cố gắng vuốt các chỗ khác nhau của con mèo.\nMột số chỗ được hoan nghênh, nhưng vài chỗ thì không."
+      "value":"Try to stroke different part of the cat.\nSome parts are welcomed, but some are not."
    },
    {
       "key":"game_1_info_2",
-      "value":"Khi bạn chạm vào chỗ chào, bạn sẽ nhận được một trái tim màu đỏ! Bạn thắng trò chơi này khi bạn nhận được 5 lần."
+      "value":"When you touch the welcomed part, you will get a red heart! You win this game when you get five of it first."
    },
    {
       "key":"game_1_info_3",
-      "value":"Khi bạn chạm vào chỗ không mong muốn, màn hình của bạn sẽ nhấp nháy! Bạn thua trò chơi này khi bạn nhận được 3 lần"
+      "value":"When you touch the unwelcome part, you will get a flash! You lose this game when you get three of it first."
    },
    {
       "key":"t_alertBody",
-      "value":"Đã đến lúc chuẩn bị thức ăn!"
+      "value":"It's time to prepare food!"
    },
    {
       "key":"t_alertTitle",
-      "value":"Đã đi làm về"
+      "value":"has come back from work!"
    },
    {
       "key":"gift_box",
-      "value":"Hộp quà mèo"
+      "value":"Cat gift box"
    },
    {
       "key":"got_cat_text",
-      "value":"Trở thành thành viên trong gia đình!"
+      "value":"becomes one of the family!"
    },
    {
       "key":"got",
-      "value":"Lấy được"
+      "value":"Got"
    },
    {
       "key":"go_to_shop",
-      "value":"Đi đến cửa hàng"
+      "value":"Go to Shop"
    },
    {
       "key":"sunny",
-      "value":"Trời nắng"
+      "value":"Sunny"
    },
    {
       "key":"cloudy",
-      "value":"Nhiều mây"
+      "value":"Cloudy"
    },
    {
       "key":"rainy",
-      "value":"Có mưa"
+      "value":"Rainy"
    },
    {
       "key":"snowy",
-      "value":"Có tuyết"
+      "value":"Snowy"
    },
    {
       "key":"got_love_sign_text",
-      "value":"Bạn có tình yêu từ bầu trời!"
+      "value":"You have got love from the sky!"
    },
    {
       "key":"got_love_text",
-      "value":"Nhận lấy tim"
+      "value":"Love got"
    },
    {
       "key":"weather_days_title",
-      "value":"Dự báo thời tiết trong 5 ngày"
+      "value":"Weather Forecast in 5 days"
    },
    {
       "key":"more_weather",
-      "value":"5 ngày"
+      "value":"5 Days"
    },
    {
       "key":"today",
-      "value":"Hôm nay"
+      "value":"Today"
    },
    {
       "key":"first_love_1",
-      "value":"Bạn ơi, xin hãy chấp nhận tình yêu của tôi và tôi sẽ bày cho bạn cách trang trí nhà của chúng ta bằng tim."
+      "value":"Darling, please accept my love and I will teach you how to decorate our home with the love you receive."
    },
    {
       "key":"cat_food_intro_1",
-      "value":"Sau khi bạn đổ đầy thức ăn, mèo sẽ ăn đến khi thời gian đếm ngược kết thúc\nvà bạn sẽ nhận được tim tùy thuộc vào thức ăn mà bạn đổ đầy."
+      "value":"After you filled the food, cat will eat it up when the time countdown is over\nand they will give you love depends on the food you filled."
    },
    {
       "key":"start_cat_food_1",
-      "value":"Hình như Snow đang đói.\nChúng ta nên cho nó ăn"
+      "value":"I think Snow is hungry now.\nWe should feed her with some food!"
    },
    {
       "key":"moment_intro_1",
-      "value":"Mỗi khi bạn mở trò chơi, sẽ có một cơ hội mà bạn gặp một khoảnh khắc tuyệt vời nào đó! Chăm sóc cho mèo và trang trí khu vườn của bạn sẽ mang lại cho bạn nhiều khoảng khắc hơn!"
+      "value":"Every time you open the game, there is a chance that you may meet a wonderful moment! Getting more cats and decorating your garden will bring you more of them!"
    },
    {
       "key":"prepare_food_sign",
-      "value":"Đừng quên chuẩn bị khay thức ăn!"
+      "value":"Don't forget to prepare bento box!"
    },
    {
       "key":"new_animal",
-      "value":"Thú cưng mới xuất hiện! Tìm chúng ngay!"
+      "value":"New animals appear! Find them out!"
    },
    {
       "key":"loading",
-      "value":"Đang tải..."
+      "value":"Loading..."
    },
    {
       "key":"alertTitle",
-      "value":"Thời gian mèo ăn!"
+      "value":"Time to feed cats!"
    },
    {
       "key":"alertBody",
-      "value":"Có rất nhiều việc phải làm, trở về nhà ngay bây giờ!"
+      "value":"There's a lot of work to do, come back home right now!"
    },
    {
       "key":"cat_alertTitle",
-      "value":"Mèo mang lại cho bạn nhiều hạnh phúc hơn!"
+      "value":"Cats bring you more love!"
    },
    {
       "key":"cat_alertBody",
-      "value":"Thức ăn của mèo đã hoàn tất, thêm thức ăn và nhận được tim!"
+      "value":"Cat's food is finished, come to refill food and receive love!"
    },
    {
       "key":"goodies_title",
-      "value":"Bộ sưu tập của tôi"
+      "value":"My Collection"
    },
    {
       "key":"finish_sign_1",
-      "value":"Đối tác của bạn đã đi làm và sẽ trở lại trong một vài giờ tới, trong khi chờ đợi...\n1. Nhận tất cả tim\n2. Chăm sóc mèo.\n3. Trang trí Adorable Home của bạn!"
+      "value":"Your partner went to work and will be back in a few hours; while you wait...\n1. Collect all the Love.\n2. Care for your Cat(s).\n3. Decorate your Adorable Home!"
    },
    {
       "key":"1_line",
-      "value":"Đây là ngôi nhà mới của chúng ta kể từ bây giờ.\nChúng ta sẽ có một cuộc sống tuyệt vời ở đây!"
+      "value":"This is our new home from now on.\nWe'll have a wonderful life here!"
    },
    {
       "key":"2_line",
-      "value":"Tuyệt quá! Tôi thích đấy!\nNhưng nó quá lộn xộn!"
+      "value":"Great! I like it!\nBut it's so messy right now"
    },
    {
       "key":"3_line",
-      "value":"Bạn nói đúng\nChúng ta cần sửa soạn lại."
+      "value":"You're right~\nWe have to clean it up."
    },
    {
       "key":"4_line",
-      "value":"Được rồi! Bắt đầu nào!"
+      "value":"OK! Let's do it!"
    },
    {
       "key":"5_line",
-      "value":"Xong rồiii...\nTrông tốt hơn rồi đấy"
+      "value":"Finally...\nIt looks much better now!"
    },
    {
       "key":"6_line",
-      "value":"Chúng ta thậm chí có thể làm nó tốt hơn!\nÔi nhìn kìa! Có tuyết rơi!"
+      "value":"Yeah! We could even make it better!\nOh,look! Snow likes the new house!"
    },
    {
       "key":"7_line",
-      "value":"Hmm! Cũng đã muộn rồi.\nTôi phải đi làm ngay bây giờ!"
+      "value":"Oh! The time is late.\nI have to go to work right now!"
    },
    {
       "key":"8_line",
-      "value":"Chờ 1 phút!\nTôi sẽ chuẩn bị bữa trưa nhanh thôi!"
+      "value":"Wait a minute!\nI'll prepare your lunch quickly!"
    },
    {
       "key":"comfirm",
-      "value":"Xác nhận"
+      "value":"Confirm"
    },
    {
       "key":"accept",
-      "value":"Chấp nhận"
+      "value":"Accept"
    },
    {
       "key":"recieve_love_text_1",
-      "value":"Bạn ơi, tôi về rồi!\nCảm ơn vì bữa ăn\nHãy nhận lấy tình yêu của tôi"
+      "value":"Darling, I'm home!\nThanks for the food.\nPlease accept my love!"
    },
    {
       "key":"yes",
-      "value":"Có"
+      "value":"Yes"
    },
    {
       "key":"no",
-      "value":"Không"
+      "value":"No"
    },
    {
       "key":"send_you",
-      "value":"Gửi cho bạn"
+      "value":"gives you"
    },
    {
       "key":"recieve_pet_love_text",
-      "value":"Chấp nhận tất cả tim"
+      "value":"Accept all love"
    },
    {
       "key":"b_start_line",
-      "value":"~Chọn cá tính của bạn~"
+      "value":"~Choose your character~"
    },
    {
       "key":"t_start_line",
-      "value":"Nhấn và chọn đối tác"
+      "value":"Click and choose your partner"
    },
    {
       "key":"enter_b_name",
-      "value":"Nhập tên"
+      "value":"Enter your name"
    },
    {
       "key":"enter_t_name",
-      "value":"Nhập tên đối tác"
+      "value":"Your partner's name"
    },
    {
       "key":"people_name_limit",
-      "value":"Giới hạn 10 kí tự"
+      "value":"10 letters"
    },
    {
       "key":"livingroom",
-      "value":"Phòng khách"
+      "value":"Lounge"
    },
    {
       "key":"garden",
-      "value":"Vườn"
+      "value":"Garden"
    },
    {
       "key":"shop",
-      "value":"Cửa hàng"
+      "value":"Shop"
    },
    {
       "key":"goodies",
-      "value":"Bộ sưu tập"
+      "value":"Mine"
    },
    {
       "key":"moments",
-      "value":"Khoảnh khắc"
+      "value":"Moments"
    },
    {
       "key":"setting",
-      "value":"Cài đặt"
+      "value":"Setting"
    },
    {
       "key":"Livingroom",
-      "value":"Phòng khách"
+      "value":"Lounge"
    },
    {
       "key":"Garden",
-      "value":"Vườn"
+      "value":"Garden"
    },
    {
       "key":"Food",
-      "value":"Thức ăn"
+      "value":"Foods"
    },
    {
       "key":"Cats",
-      "value":"Mèo"
+      "value":"Cats"
    },
    {
       "key":"Visitors",
-      "value":"Khách"
+      "value":"Visitors"
    },
    {
       "key":"Boxes",
-      "value":"Hộp"
+      "value":"Boxes"
    },
    {
       "key":"shop_title",
-      "value":"Mua sắm"
+      "value":"Shopping"
    },
    {
       "key":"more",
-      "value":"Khác"
+      "value":"More"
    },
    {
       "key":"buy_line",
-      "value":"Bạn có muốn mua nó?"
+      "value":"Do you want to buy it?"
    },
    {
       "key":"cant_buy",
-      "value":"Tim của bạn không đủ!"
+      "value":"Your love is not enough!"
    },
    {
       "key":"bought",
-      "value":"Đã mua"
+      "value":"Bought"
    },
    {
       "key":"in_use",
-      "value":"Đặt"
+      "value":"Placed"
    },
    {
       "key":"main_dish",
-      "value":"Thức ăn chính"
+      "value":"Main Course"
    },
    {
       "key":"side_dish",
-      "value":"Thức ăn phụ"
+      "value":"Side Dish"
    },
    {
       "key":"dessert",
-      "value":"Tráng miệng"
+      "value":"Dessert"
    },
    {
       "key":"box",
-      "value":"Khay thức ăn"
+      "value":"Bento Box"
    },
    {
       "key":"pet_food_1",
-      "value":"Thức ăn "
+      "value":"Cat food"
    },
    {
       "key":"pet_food_2",
-      "value":"Thức ăn ngon hơn"
+      "value":"Delicious cat food"
    },
    {
       "key":"pet_food_3",
-      "value":"Cá"
+      "value":"Dried fishes"
    },
    {
       "key":"pet_food_4",
-      "value":"Cá biển"
+      "value":"Dried sea fishes"
    },
    {
       "key":"cost",
-      "value":"Giá"
+      "value":"Cost"
    },
    {
       "key":"add",
-      "value":"Thêm"
+      "value":"Refill"
    },
    {
       "key":"later",
-      "value":"Sau"
+      "value":"Later"
    },
    {
       "key":"dont_have_line1",
-      "value":"Bạn không có thứ này.\nHãy mua tại cửa hàng."
+      "value":"You don't have this course.\nPlease buy some in the Shop."
    },
    {
       "key":"select",
-      "value":"Chọn"
+      "value":"Select"
    },
    {
       "key":"selected",
-      "value":"Đã chọn"
+      "value":"Selected"
    },
    {
       "key":"purchase_failed",
-      "value":"Mua hàng của bạn đã thất bại vì lí do nào đó!"
+      "value":"Your purchase has failed somehow!"
    },
    {
       "key":"purchase_complete",
-      "value":"Bạn có được nhiều tim hơn!"
+      "value":"You have gained more love!"
    },
    {
       "key":"ads_wait_sign",
-      "value":"Bạn chỉ có thể xem 10 Quảng cáo / ngày!"
+      "value":"You can only watch 10 Ads everyday!"
    },
    {
       "key":"unlock",
-      "value":"Mở khóa"
+      "value":"Unlock"
    },
    {
       "key":"garden_title",
-      "value":"Khu vườn"
+      "value":"Garden Area"
    },
    {
       "key":"garden_buy_complete",
-      "value":"Hãy cảm nhận khu vườn của bạn!"
+      "value":"Please enjoy your garden!"
    },
    {
       "key":"garden_info_1",
-      "value":"Mở khóa khu vườn\nBạn có thể mở rộng cuộc sống của mình đến khu vườn và thu hút những vị khách dễ thương khác nhau ghé thăm!"
+      "value":"Unlock Garden Area\nyou can expand your life to garden and attract different cute guests to visit!"
    },
    {
       "key":"no_garden_item",
-      "value":"Bạn cần mở khóa khu vườn!"
+      "value":"You need to unlock Garden Area!"
    },
    {
       "key":"no_food_item",
-      "value":"Bạn không có thức ăn"
+      "value":"You don't have any food"
    },
    {
       "key":"no_animal_item",
-      "value":"Bạn đã không gặp khách thăm thú!"
+      "value":"You didn't meet any animal visitors"
    },
    {
       "key":"change_people_title",
-      "value":"Chọn lại cá tính"
+      "value":"Reselect Characters"
    },
    {
       "key":"change_people_1",
-      "value":"Không dễ dàng gì để ở bên nhau. Phá vỡ mối quan hệ! Bạn sẽ có cơ hội chọn lại các nhân vật nếu bạn thanh toán và tất cả dữ liệu trò chơi của bạn sẽ được lưu giữ!"
+      "value":"It‘s not easy to be with each other. Break the relationship should pay the price! You will have a chance to reselect characters if you pay the price, and all your game data will be kept!"
    },
    {
       "key":"pay",
-      "value":"Thanh toán"
+      "value":"Pay"
    },
    {
       "key":"buy_people_complete",
-      "value":"Bạn có thể chọn lại tính cách ngay bây giờ"
+      "value":"You can reselect characters now!"
    },
    {
       "key":"change_language",
-      "value":"Thay đổi ngôn ngữ"
+      "value":"Change Language"
    },
    {
       "key":"English",
@@ -662,104 +1595,103 @@
    },
    {
       "key":"rate_game",
-      "value":"Đánh giá trò chơi"
+      "value":"Rate Game"
    },
    {
       "key":"characters",
-      "value":"Nhân vật"
+      "value":"Characters"
    },
    {
       "key":"contact",
-      "value":"Liên hệ"
+      "value":"Contact"
    },
    {
       "key":"contact_text",
-      "value":"Nếu bạn có bất kỳ vấn đề, xin vui lòng liên hệ"
+      "value":"If you have any problem, please contact"
    },
    {
       "key":"restore",
-      "value":"Khôi phục"
+      "value":"Restore"
    },
    {
       "key":"restore_complete",
-      "value":"Hoàn tất khôi phục!"
+      "value":"Successfully restored!"
    },  
    {
       "key":"restore_failed",
-      "value":"Khôi phục của bạn đã thất bại vì lí do nào đó!"
+      "value":"Your restoration has failed somehow!"
    },
    {
       "key":"restore_line_1",
-      "value":"Nếu bạn đã mua khu vườn"
+      "value":"if you have purchased Garden Area"
    },
    {
       "key":"restore_line_2",
-      "value":"và cài đặt lại trò chơi này"
+      "value":"and reinstalled this game"
    },
    {
       "key":"restore_line_3",
-      "value":"bạn có thể khôi phục nó ở đây!"
+      "value":"you can restore it here!"
    },
    {
       "key":"sound_text",
-      "value":"Hiệu ứng âm thanh"
+      "value":"Sound Effects"
    },
    {
       "key":"music_text",
-      "value":"Nhạc nền"
+      "value":"Background Music"
    },
    {
       "key":"delete_moment",
-      "value":"Xóa khoảnh khắc?"
+      "value":"Delete this moment?"
    },
    {
       "key":"prepare_food",
-      "value":"Chuẩn bị khay thức ăn"
+      "value":"Prepare Bento Box"
    },
    {
       "key":"food_info_1",
-      "value":"Nhấn vào khay thức ăn để chọn món chính, món phụ, món tráng miệng và khay. Đối tác của bạn sẽ cho bạn tim tùy thuộc vào mức độ họ thích.\nCombo tuyệt vời mang lại nhiều tim hơn!"
+      "value":"Tap the bento box to select a Main Course, Side Dish, Dessert and Box. Your partner will give you love depending on how much they enjoy it.\nGreat combos bring more love!"
    },
    {
       "key":"got_it",
-      "value":"Được rồi!"
+      "value":"Got it!"
    },
    {
       "key":"save",
-      "value":"Lưu"
+      "value":"Save"
    },
    {
       "key":"delete",
-      "value":"Xóa"
+      "value":"Delete"
    },
    {
       "key":"moment_line_1",
-      "value":"Bấm chụp\nthật nhanh!"
+      "value":"Press shutter\nquickly!"
    },
    {
       "key":"saved_sign",
-      "value":"Khoảnh khắc mới đã được lưu!"
+      "value":"New moment has saved!"
    },
    {
       "key":"place_item_text",
-      "value":"Bạn có muốn đặt nó không?"
+      "value":"Do you want to place it？"
    },
    {
       "key":"put_away_text",
-      "value":"Bạn có muốn cất nó đi không?"
+      "value":"Do you want to put it away？"
    },
    {
       "key":"watch_ad_text",
-      "value":"Xem tin tức để có được 
-      "
+      "value":"Watch news to gain love"
    },
    {
       "key":"free",
-      "value":"Nhận tim miễn phí"
+      "value":"Get Free Love"
    },
    {
       "key":"ad_limit_text",
-      "value":"Bạn chỉ có thể xem 10 Quảng cáo / ngày!"
+      "value":"You can only watch 10 Ads everyday!"
    },
 
 
@@ -2526,23 +3458,6 @@
    {
       "key":"grass",
       "value":"Thick Grass"
-   },
-   {
-      "key":"offerwall_exit",
-      "value":"Hoàn thành một đề nghị để kiếm được tim miễn phí. Có thể mất đến 24 giờ để nhận phần thưởng của bạn."
-   },
-   {
-      "key":"offerwall_success",
-      "value":"Chúc mừng! Bạn đã hoàn thành một đề nghị và bây giờ đã sẵn sàng để nhận phần thưởng."
-   },
-   {
-      "key":"free_gems",
-      "value":"Kiếm được tim bằng cách hoàn thành cung cấp!"
-   },
-   {
-      "key":"freeOW",
-      "value":"MIỄN PHÍ"
    }
-
 
 ]
